@@ -9526,5 +9526,13 @@
     "email": "jurekmarchewka@o2.pl",
     "paczkomat": "WCZD01BAPP",
     "size": "A"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Pocztaruk",
+    "tel": "663289997",
+    "email": "monikap4@o2.pl",
+    "paczkomat": "KRD05M",
+    "size": "B"
   }
 ]
