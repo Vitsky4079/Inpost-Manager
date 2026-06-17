@@ -4642,7 +4642,7 @@
   {
     "imie": "Iwona",
     "nazw": "Lech",
-    "tel": "66003",
+    "tel": "660000483",
     "email": "ilech5@wp.pl",
     "paczkomat": "SVR01M",
     "size": "B"
@@ -6698,7 +6698,7 @@
   {
     "imie": "Liliana",
     "nazw": "Szklarczyk",
-    "tel": "66914",
+    "tel": "600486914",
     "email": "l.szklarczyk@wp.pl",
     "paczkomat": "WAW318M",
     "size": "B"
@@ -9741,6 +9741,163 @@
     "tel": "608659313",
     "email": "Sylwia19710615@wp.pl",
     "paczkomat": "SWNO5M",
+    "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazw": "Derucka-Popiołek",
+    "tel": "604613318",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Pawłówek 93A",
+      "zip": "62-800",
+      "city": "Kalisz"
+    }
+  },
+  {
+    "imie": "Aleksandra",
+    "nazw": "Lizak",
+    "tel": "662183606",
+    "email": "",
+    "paczkomat": "WSR01M",
+    "size": "B"
+  },
+  {
+    "imie": "Aleksandra",
+    "nazw": "Wawrocka",
+    "tel": "606247576",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Pszenna 33",
+      "zip": "70-780",
+      "city": "Szczecin"
+    }
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Pawlak",
+    "tel": "511599308",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Poznańska 8",
+      "zip": "63-430",
+      "city": "Odolanów"
+    }
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Sosnowska",
+    "tel": "508721093",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Budziszyńska 10/57",
+      "zip": "70-023",
+      "city": "Szczecin"
+    }
+  },
+  {
+    "imie": "Basia",
+    "nazw": "Skoplak",
+    "tel": "697082606",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Łużycka 31",
+      "zip": "30-658",
+      "city": "Kraków"
+    }
+  },
+  {
+    "imie": "Brygida",
+    "nazw": "Rządkowska",
+    "tel": "535258744",
+    "email": "potempa.brygida@gmail.com",
+    "paczkomat": "",
+    "size": "B"
+  },
+  {
+    "imie": "Iwona",
+    "nazw": "Palicka",
+    "tel": "512155728",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Słowackiego 6",
+      "zip": "88-400",
+      "city": "Żnin"
+    }
+  },
+  {
+    "imie": "Justyna",
+    "nazw": "Więcław",
+    "tel": "799236398",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Golkowice 604",
+      "zip": "30-698",
+      "city": "Kraków"
+    }
+  },
+  {
+    "imie": "Kasia",
+    "nazw": "Dudzińska-Grzelak",
+    "tel": "694991714",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kolejowa 40",
+      "zip": "08-300",
+      "city": "Sokołów Podlaski"
+    }
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Paszewska",
+    "tel": "783238011",
+    "email": "paszewska79@wp.pl",
+    "paczkomat": "",
+    "size": "B"
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Tłuścik",
+    "tel": "724149815",
+    "email": "maltuk@tlen.pl",
+    "paczkomat": "DĄBRÓWKI 1 GRUDZIĄDZ",
+    "size": "B"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Szyfelbein",
+    "tel": "606894443",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Elżbiety 13/3",
+      "zip": "88-110",
+      "city": "Tczew"
+    }
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Rudzikiewicz",
+    "tel": "697991015",
+    "email": "gosiaru@o2.pl",
+    "paczkomat": "",
     "size": "B"
   }
 ]
