@@ -1052,7 +1052,7 @@
     "nazw": "Piątek",
     "tel": "607233290",
     "email": "Apiatek33@wp.pl",
-    "paczkomat": "RAD05N",
+    "paczkomat": "SŁOWACKIEGO 236 RADOM",
     "size": "B"
   },
   {
@@ -3892,7 +3892,7 @@
     "nazw": "Rueck",
     "tel": "669025688",
     "email": "ewusruq77.com@gmail.com",
-    "paczkomat": "LPZ01M",
+    "paczkomat": "ROGALI 3 LIPUSZ",
     "size": "B"
   },
   {
@@ -3988,7 +3988,7 @@
     "nazw": "Zalewska",
     "tel": "601359921",
     "email": "ewazalewska05@gmail.com",
-    "paczkomat": "LUB126M",
+    "paczkomat": "ZYGMUNTA AUGUSTA 15 LUBLIN",
     "size": "B"
   },
   {
@@ -9906,6 +9906,30 @@
     "tel": "608649178",
     "email": "aspektbiuro@wp.pl",
     "paczkomat": "SWR01G",
+    "size": "B"
+  },
+  {
+    "imie": "Magda",
+    "nazw": "Piotrak",
+    "tel": "600268801",
+    "email": "magda.piotrak@op.pl",
+    "paczkomat": "PRZEMYSŁOWA 8 NASIELSK",
+    "size": "B"
+  },
+  {
+    "imie": "Renata",
+    "nazw": "Adam",
+    "tel": "506817273",
+    "email": "Qwert1315@wp.pl",
+    "paczkomat": "GDA202M",
+    "size": "B"
+  },
+  {
+    "imie": "Sylwia",
+    "nazw": "Warmińska",
+    "tel": "885453030",
+    "email": "warminskasylwia@gmail.com",
+    "paczkomat": "UZO01M",
     "size": "B"
   }
 ]
