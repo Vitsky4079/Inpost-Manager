@@ -8953,8 +8953,13 @@
     "nazw": "Andrzejczak",
     "tel": "694383813",
     "email": "Tereska_ee@vp.pl",
-    "paczkomat": "RUM02APP",
-    "size": "B"
+    "paczkomat": "DPD PUNKT ŻABKA",
+    "size": "B",
+    "dpd": {
+      "street": "Gdańska 39",
+      "zip": "84-230",
+      "city": "Rumia"
+    }
   },
   {
     "imie": "Teresa",
