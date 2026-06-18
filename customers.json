@@ -9962,5 +9962,18 @@
       "zip": "56-513",
       "city": "Międzybórz"
     }
+  },
+  {
+    "imie": "Dorota",
+    "nazw": "Syd",
+    "tel": "509784500",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wyzwolenia 35",
+      "zip": "42-583",
+      "city": "Bobrowniki"
+    }
   }
 ]
