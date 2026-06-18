@@ -5293,7 +5293,12 @@
     "tel": "501387890",
     "email": "joanna_zab@wp.pl",
     "paczkomat": "NAD KANIĄ 161 GOSTYŃ",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Nad Kanią 35",
+      "zip": "63-800",
+      "city": "Gostyń"
+    }
   },
   {
     "imie": "Joanna",
