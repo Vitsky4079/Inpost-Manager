@@ -9939,5 +9939,18 @@
     "email": "ewapiotr0@onet.eu",
     "paczkomat": "WQW01M",
     "size": "B"
+  },
+  {
+    "imie": "Asia",
+    "nazw": "Gilakowska",
+    "tel": "721612973",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Niwki Książęce 2",
+      "zip": "56-513",
+      "city": "Międzybórz"
+    }
   }
 ]
