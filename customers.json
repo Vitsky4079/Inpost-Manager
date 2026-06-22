@@ -1052,7 +1052,7 @@
     "nazw": "Piątek",
     "tel": "607233290",
     "email": "Apiatek33@wp.pl",
-    "paczkomat": "RAD05N",
+    "paczkomat": "SŁOWACKIEGO 236 RADOM",
     "size": "B"
   },
   {
@@ -3892,7 +3892,7 @@
     "nazw": "Rueck",
     "tel": "669025688",
     "email": "ewusruq77.com@gmail.com",
-    "paczkomat": "LPZ01M",
+    "paczkomat": "ROGALI 3 LIPUSZ",
     "size": "B"
   },
   {
@@ -3988,7 +3988,7 @@
     "nazw": "Zalewska",
     "tel": "601359921",
     "email": "ewazalewska05@gmail.com",
-    "paczkomat": "LUB126M",
+    "paczkomat": "ZYGMUNTA AUGUSTA 15 LUBLIN",
     "size": "B"
   },
   {
@@ -9923,7 +9923,7 @@
     "nazw": "Piotrak",
     "tel": "600268801",
     "email": "magda.piotrak@op.pl",
-    "paczkomat": "PNET0904",
+    "paczkomat": "PRZEMYSŁOWA 8 NASIELSK",
     "size": "B"
   },
   {
@@ -9974,6 +9974,71 @@
       "street": "Wyzwolenia 35",
       "zip": "42-583",
       "city": "Bobrowniki"
+    }
+  },
+  {
+    "imie": "Grażyna",
+    "nazw": "Trepkowska",
+    "tel": "669843750",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zegartowice 18/7",
+      "zip": "86-221",
+      "city": "Papowo Biskupie"
+    }
+  },
+  {
+    "imie": "Joanna",
+    "nazw": "Paleń",
+    "tel": "668093718",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Poniatowskiego 88/51",
+      "zip": "37-450",
+      "city": "Stalowa Wola"
+    }
+  },
+  {
+    "imie": "Magdalena",
+    "nazw": "Murawska",
+    "tel": "883991273",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Borkowo 100",
+      "zip": "18-500",
+      "city": "Kolno"
+    }
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Lis",
+    "tel": "695907695",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Podlipie 25",
+      "zip": "32-053",
+      "city": "Wola Radziszowska"
+    }
+  },
+  {
+    "imie": "Paulina",
+    "nazw": "Zbyrad",
+    "tel": "603431496",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Polna 10",
+      "zip": "64-030",
+      "city": "Koszanowo"
     }
   }
 ]
