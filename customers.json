@@ -10040,5 +10040,13 @@
       "zip": "64-030",
       "city": "Koszanowo"
     }
+  },
+  {
+    "imie": "Agata",
+    "nazw": "Warmuz",
+    "tel": "506028799",
+    "email": "agacia210@vp.pl",
+    "paczkomat": "BZEZ01BAPP",
+    "size": "B"
   }
 ]
