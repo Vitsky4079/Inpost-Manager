@@ -10585,5 +10585,18 @@
       "zip": "16-010",
       "city": "Nowodworce"
     }
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Szczęsna",
+    "tel": "505583701",
+    "email": "kaszcze6@wp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Glina 40/2",
+      "zip": "82-522",
+      "city": "Sadlinki"
+    }
   }
 ]
