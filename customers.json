@@ -337,7 +337,7 @@
     "nazw": "Stachowska",
     "tel": "504365079",
     "email": "agamaja.68a@gmail.com",
-    "paczkomat": "WICI 34 ŁÓDŹ",
+    "paczkomat": "WICI 3 ŁÓDŹ",
     "size": "B"
   },
   {
@@ -3738,7 +3738,12 @@
     "tel": "500360259",
     "email": "ewa.korzeniak@interia.pl",
     "paczkomat": "TADL01BAPP",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Tarnawa Dolna 512",
+      "zip": "34-210",
+      "city": "Tarnawa Dolna"
+    }
   },
   {
     "imie": "Ewa",
@@ -10597,6 +10602,118 @@
       "street": "Glina 40/2",
       "zip": "82-522",
       "city": "Sadlinki"
+    }
+  },
+  {
+    "imie": "Bernadeta",
+    "nazw": "Hirsz",
+    "tel": "698605676",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Źródlana 5",
+      "zip": "83-322",
+      "city": "Stężyca"
+    }
+  },
+  {
+    "imie": "Grażyna",
+    "nazw": "Hreczyńska",
+    "tel": "693612420",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Święcia 21A",
+      "zip": "62-570",
+      "city": "Rychwał"
+    }
+  },
+  {
+    "imie": "Helena",
+    "nazw": "Janota",
+    "tel": "669255030",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bazaltowa 21",
+      "zip": "43-155",
+      "city": "Bieruń"
+    }
+  },
+  {
+    "imie": "Joanna",
+    "nazw": "Chudzińska",
+    "tel": "515243298",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Lwa Tołstoja 3 m 29",
+      "zip": "01-910",
+      "city": "Warszawa"
+    }
+  },
+  {
+    "imie": "Joanna",
+    "nazw": "Czarnota",
+    "tel": "698627122",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Woliczka 68A",
+      "zip": "36-072",
+      "city": "Świlcza"
+    }
+  },
+  {
+    "imie": "Joanna",
+    "nazw": "Sierpień",
+    "tel": "501304451",
+    "email": "joannasierpien@poczta.onet.pl",
+    "paczkomat": "LUK10M",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Kowacka",
+    "tel": "788612166",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Piłsudskiego 3",
+      "zip": "34-240",
+      "city": "Jordanów"
+    }
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Krzyżaniak",
+    "tel": "724521290",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Goraj 19B",
+      "zip": "64-720",
+      "city": "Lubasz"
+    }
+  },
+  {
+    "imie": "Maria",
+    "nazw": "Kliszewska",
+    "tel": "726580902",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zacharzyn 96",
+      "zip": "64-813",
+      "city": "Zacharzyn"
     }
   }
 ]
