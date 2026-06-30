@@ -10715,5 +10715,13 @@
       "zip": "64-813",
       "city": "Zacharzyn"
     }
+  },
+  {
+    "imie": "Ewa",
+    "nazw": "Sowa",
+    "tel": "501457930",
+    "email": "agent.sowa@gmail.com",
+    "paczkomat": "TYC06A",
+    "size": "B"
   }
 ]
