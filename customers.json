@@ -6448,9 +6448,9 @@
   {
     "imie": "Katarzyna",
     "nazw": "Woźniak",
-    "tel": "882423051",
-    "email": "kwozniak677@wp.pl",
-    "paczkomat": "SCH01M",
+    "tel": "603648590",
+    "email": "wozniakkatarzyna090@gmail.com",
+    "paczkomat": "WAW112BAPP",
     "size": "B"
   },
   {
@@ -7525,10 +7525,15 @@
   {
     "imie": "Małgorzata",
     "nazw": "Woźniak",
-    "tel": "503071089",
+    "tel": "607971973",
     "email": "malgorzata10000@wp.pl",
     "paczkomat": "LUB52M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Cicha 12",
+      "zip": "87-148",
+      "city": "Chełmża"
+    }
   },
   {
     "imie": "Małgorzata",
@@ -11184,6 +11189,58 @@
       "street": "Płąchawy 43",
       "zip": "87-214",
       "city": "Płużnica"
+    }
+  },
+  {
+    "imie": "Gabriela",
+    "nazw": "Buchta",
+    "tel": "513899179",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Leśna 6",
+      "zip": "44-172",
+      "city": "Niekarmia"
+    }
+  },
+  {
+    "imie": "Grażyna",
+    "nazw": "Tomczuk",
+    "tel": "608305392",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Ogrodowa 24/3",
+      "zip": "57-230",
+      "city": "Kamieniec Ząbkowicki"
+    }
+  },
+  {
+    "imie": "Mirka",
+    "nazw": "Kierska",
+    "tel": "515937129",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nieżychowice 15A/12",
+      "zip": "89-620",
+      "city": "Chojnice"
+    }
+  },
+  {
+    "imie": "Teresa",
+    "nazw": "Brodka",
+    "tel": "690001684",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Karolewo 24B",
+      "zip": "83-251",
+      "city": "Pinczyn"
     }
   }
 ]
