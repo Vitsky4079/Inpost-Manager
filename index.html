@@ -595,11 +595,14 @@ function parseCSV(text) {
   // DPD address columns from Google Contacts export
   const iStreet = idx('Address 1 - Street'), iCity = idx('Address 1 - City'), iZip = idx('Address 1 - Postal Code');
 
-  const db = loadDB();
-  // Index existing customers by name (imie+nazw, lowercase) — that's the identity
-  const byName = new Map();
-  db.forEach(c => byName.set((c.imie+' '+c.nazw).toLowerCase().trim(), c));
-  let added = 0, updated = 0, nodata = 0;
+  const oldDb = loadDB();
+  // Index existing customers by name — to carry forward manual paczkomat codes + DPD addresses
+  const oldByName = new Map();
+  oldDb.forEach(c => oldByName.set((c.imie+' '+c.nazw).toLowerCase().trim(), c));
+
+  const newDb = [];
+  const seen = new Set();
+  let added = 0, keptCode = 0, keptDpd = 0, nodata = 0;
 
   for (let i = 1; i < rows.length; i++) {
     const cols = parseCSVLine(rows[i]);
@@ -608,46 +611,67 @@ function parseCSV(text) {
     const nick = (cols[iNick]||'').trim();
     const email = (cols[iEmail]||'').trim();
     let tel = (cols[iPhone]||'').trim().replace(/[\s\-\(\)]/g,'').replace(/^\+48/,'').replace(/^0048/,'');
-    // DPD address (may be empty)
     const street = iStreet >= 0 ? (cols[iStreet]||'').trim() : '';
     const city = iCity >= 0 ? (cols[iCity]||'').trim() : '';
     const zip = iZip >= 0 ? (cols[iZip]||'').trim() : '';
     const hasDpd = street && city;
 
-    // Need at least a name to identify the customer
     if (!imie && !nazw) { nodata++; continue; }
 
-    // Nickname "DPD" (any case) is a marker, not a paczkomat code
     const isDpdMarker = nick.toUpperCase() === 'DPD';
-    const paczkomat = isDpdMarker ? '' : nick.toUpperCase();
+    let paczkomat = isDpdMarker ? '' : nick.toUpperCase();
     const key = (imie+' '+nazw).toLowerCase().trim();
-    const existing = byName.get(key);
+    if (seen.has(key)) continue; // skip duplicate rows in the file
+    seen.add(key);
 
-    if (existing) {
-      // Update existing customer — fill in missing data without wiping what's there
-      let changed = false;
-      if (paczkomat && existing.paczkomat !== paczkomat) { existing.paczkomat = paczkomat; changed = true; }
-      if (email && existing.email !== email) { existing.email = email; changed = true; }
-      if (tel && existing.tel !== tel) { existing.tel = tel; changed = true; }
-      if (hasDpd) {
-        const newDpd = { street, zip, city };
-        if (JSON.stringify(existing.dpd||{}) !== JSON.stringify(newDpd)) { existing.dpd = newDpd; changed = true; }
+    // New customer needs a code, DPD address, or email to be useful
+    if (!paczkomat && !hasDpd && !email) { nodata++; continue; }
+
+    const rec = { imie, nazw, tel, email, paczkomat: paczkomat || '', size: 'B' };
+    if (hasDpd) rec.dpd = { street, zip, city };
+
+    // Carry forward manual enrichments from the old base
+    const old = oldByName.get(key);
+    if (old) {
+      rec.size = old.size || 'B';
+      // Preserve a manually-fixed paczkomat code: if the file's value is an address
+      // (or empty) but the old base had a real code, keep the old code.
+      if (old.paczkomat && !isAddress(old.paczkomat) && (!paczkomat || isAddress(paczkomat))) {
+        rec.paczkomat = old.paczkomat;
+        keptCode++;
       }
-      if (changed) updated++;
-    } else {
-      // New customer — needs a paczkomat code, OR a DPD address, OR an email
-      if (!paczkomat && !hasDpd && !email) { nodata++; continue; }
-      const rec = {imie, nazw, tel, email, paczkomat: paczkomat || '', size:'B'};
-      if (hasDpd) rec.dpd = { street, zip, city };
-      db.push(rec);
-      byName.set(key, rec);
-      added++;
+      // Preserve DPD address if the file didn't bring one
+      if (!rec.dpd && old.dpd && old.dpd.street && old.dpd.city) {
+        rec.dpd = old.dpd;
+        keptDpd++;
+      }
+    }
+    newDb.push(rec);
+    added++;
+  }
+
+  const removed = oldDb.length - newDb.filter(r => oldByName.has((r.imie+' '+r.nazw).toLowerCase().trim())).length;
+
+  // Full replace is destructive — confirm before wiping customers not in the file
+  if (removed > 0) {
+    const ok = confirm(`Import zastąpi całą bazę danymi z pliku.\n\n` +
+      `• W pliku: ${added} klientek\n` +
+      `• Zniknie z bazy: ${removed} klientek (nie ma ich w nowym pliku)\n` +
+      `• Zachowane ręczne kody paczkomatów: ${keptCode}\n` +
+      `• Zachowane adresy DPD: ${keptDpd}\n\n` +
+      `Kontynuować?`);
+    if (!ok) {
+      const msg = document.getElementById('import-msg');
+      msg.className = 'msg msg-err';
+      msg.textContent = 'Anulowano — baza bez zmian.';
+      return;
     }
   }
-  saveDB(db);
+
+  saveDB(newDb);
   const msg = document.getElementById('import-msg');
   msg.className = 'msg msg-ok';
-  msg.textContent = `✓ Dodano ${added} nowych, zaktualizowano ${updated}. Pominięto (brak danych): ${nodata}.`;
+  msg.textContent = `✓ Baza zastąpiona: ${added} klientek. Usunięto: ${removed}. Zachowano kodów: ${keptCode}, adresów DPD: ${keptDpd}.`;
 }
 
 // Orders
