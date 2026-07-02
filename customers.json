@@ -1377,7 +1377,7 @@
     "nazw": "Krupińska",
     "tel": "697022917",
     "email": "anna.krupinska.01@gmail.com",
-    "paczkomat": "TCZ09M",
+    "paczkomat": "GDAŃSKA 35A TCZEW",
     "size": "B"
   },
   {
@@ -3433,7 +3433,7 @@
     "nazw": "Jasienicka",
     "tel": "603977611",
     "email": "elzbietajasienicka68@gmail.com",
-    "paczkomat": "GRU12A",
+    "paczkomat": "DĄBRÓWKI 1 GRUDZIĄDZ",
     "size": "B"
   },
   {
@@ -7098,7 +7098,7 @@
     "nazw": "Cuper",
     "tel": "662246930",
     "email": "malgorzata.cuper@op.pl",
-    "paczkomat": "ILW02M",
+    "paczkomat": "WARSZAWSKA 17A IŁÓW",
     "size": "B"
   },
   {
@@ -9926,7 +9926,7 @@
     "nazw": "Tłuścik",
     "tel": "724149815",
     "email": "maltuk@tlen.pl",
-    "paczkomat": "GRU12A",
+    "paczkomat": "DĄBRÓWKI 1 GRUDZIĄDZ",
     "size": "B"
   },
   {
@@ -10087,7 +10087,12 @@
     "tel": "506028799",
     "email": "agacia210@vp.pl",
     "paczkomat": "BZEZ01BAPP",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Kalinowa 38",
+      "zip": "34-114",
+      "city": "Brzeźnica"
+    }
   },
   {
     "imie": "Marianna",
@@ -11242,5 +11247,91 @@
       "zip": "83-251",
       "city": "Pinczyn"
     }
+  },
+  {
+    "imie": "Bogumiła",
+    "nazw": "Zwolska",
+    "tel": "537100664",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Polna 9/34",
+      "zip": "41-600",
+      "city": "Świętochłowice"
+    }
+  },
+  {
+    "imie": "Dorota",
+    "nazw": "Mnich",
+    "tel": "724231896",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Szosa Bydgoska 33",
+      "zip": "88-180",
+      "city": "Złotniki Kujawskie"
+    }
+  },
+  {
+    "imie": "Elżbieta",
+    "nazw": "Morawiec",
+    "tel": "886548439",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Daszyńskiego 385",
+      "zip": "44-151",
+      "city": "Gliwice"
+    }
+  },
+  {
+    "imie": "Emila",
+    "nazw": "Kobita",
+    "tel": "693304879",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wężyska 66",
+      "zip": "66-600",
+      "city": "Krosno Odrzańskie"
+    }
+  },
+  {
+    "imie": "Joanna",
+    "nazw": "Kopel",
+    "tel": "609026902",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Tyska 34K",
+      "zip": "43-180",
+      "city": "Orzesze"
+    }
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Winek",
+    "tel": "608615072",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nowe Podole 13",
+      "zip": "08-470",
+      "city": "Wiga"
+    }
+  },
+  {
+    "imie": "Stenia",
+    "nazw": "Moczyńska",
+    "tel": "691578685",
+    "email": "stenia.moczynska@gmail.com",
+    "paczkomat": "NOE03M",
+    "size": "B"
   }
 ]
