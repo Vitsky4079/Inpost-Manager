@@ -3294,19 +3294,6 @@
     "size": "B"
   },
   {
-    "imie": "Doeota",
-    "nazw": "Konecka",
-    "tel": "508817210",
-    "email": "",
-    "paczkomat": "",
-    "size": "B",
-    "dpd": {
-      "street": "Sobiewola 20",
-      "zip": "14-220",
-      "city": "Kisielice"
-    }
-  },
-  {
     "imie": "Dominik",
     "nazw": "Makowski",
     "tel": "791965845",
@@ -3488,6 +3475,19 @@
     "email": "dorka5@poczta.fm",
     "paczkomat": "TAR09A",
     "size": "B"
+  },
+  {
+    "imie": "Dorota",
+    "nazw": "Konecka",
+    "tel": "508817210",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sobiewola 20",
+      "zip": "14-220",
+      "city": "Kisielice"
+    }
   },
   {
     "imie": "Dorota",
