@@ -126,6 +126,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Bogacz",
+    "tel": "694452171",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wróblewskiego 4",
+      "zip": "24-100",
+      "city": "Puławy"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Derucka-Popiołek",
     "tel": "604613318",
     "email": "",
@@ -370,6 +383,19 @@
     "email": "dagmarasmajek@wp.pl",
     "paczkomat": "PZT01M",
     "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazw": "Sobczak",
+    "tel": "668483130",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zawadzka 8",
+      "zip": "95-100",
+      "city": "Zgierz"
+    }
   },
   {
     "imie": "Agnieszka",
@@ -2854,6 +2880,19 @@
   },
   {
     "imie": "Bogumiła",
+    "nazw": "Posłuszna",
+    "tel": "724127996",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Cegiełka 10",
+      "zip": "88-320",
+      "city": "Strzelno"
+    }
+  },
+  {
+    "imie": "Bogumiła",
     "nazw": "Zwolska",
     "tel": "537100664",
     "email": "",
@@ -2886,7 +2925,7 @@
     "nazw": "Abramowicz",
     "tel": "502159043",
     "email": "abramboz@gmail.com",
-    "paczkomat": "CHT01N",
+    "paczkomat": "CHT01M",
     "size": "B"
   },
   {
@@ -5159,6 +5198,19 @@
   },
   {
     "imie": "Halina",
+    "nazw": "Jaroń",
+    "tel": "510723192",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Dworcowa 4/4",
+      "zip": "73-120",
+      "city": "Chociwel"
+    }
+  },
+  {
+    "imie": "Halina",
     "nazw": "Paczkowska",
     "tel": "503771296",
     "email": "h.pacz@o2.pl",
@@ -5269,6 +5321,19 @@
       "street": "Bazaltowa 21",
       "zip": "43-155",
       "city": "Bieruń"
+    }
+  },
+  {
+    "imie": "Helena",
+    "nazw": "Michalak",
+    "tel": "660993073",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Władysława Jagiełły 1B m.39",
+      "zip": "41-100",
+      "city": "Siemianowice Śląskie"
     }
   },
   {
@@ -6691,6 +6756,19 @@
   },
   {
     "imie": "Jolanta",
+    "nazw": "Garbacik",
+    "tel": "691670685",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Gąsówka 51",
+      "zip": "38-204",
+      "city": "Tarnowiec"
+    }
+  },
+  {
+    "imie": "Jolanta",
     "nazw": "Gegotek",
     "tel": "692226888",
     "email": "jolanta_gegotek@wp.pl",
@@ -7968,6 +8046,19 @@
     "email": "krystynakozlowska13@gmail.com",
     "paczkomat": "NVV02M",
     "size": "B"
+  },
+  {
+    "imie": "Krystyna",
+    "nazw": "Łącka",
+    "tel": "604073217",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Świetopelka Wielkiego 3",
+      "zip": "83-322",
+      "city": "Stężyca"
+    }
   },
   {
     "imie": "Krystyna",
@@ -9279,6 +9370,19 @@
   },
   {
     "imie": "Mariola",
+    "nazw": "Łobejko",
+    "tel": "730082127",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Mieleszyn 102",
+      "zip": "98-430",
+      "city": "Bolesławiec Łódzki"
+    }
+  },
+  {
+    "imie": "Mariola",
     "nazw": "Masłowska",
     "tel": "695179282",
     "email": "zabulka2008@wp.pl",
@@ -10439,6 +10543,19 @@
     "email": "renata28069@wp.pl",
     "paczkomat": "MDY05M",
     "size": "B"
+  },
+  {
+    "imie": "Renata",
+    "nazw": "Nowińska",
+    "tel": "604075745",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Armii Krajowej 21",
+      "zip": "35-307",
+      "city": "Rzeszów"
+    }
   },
   {
     "imie": "Renata",
