@@ -7056,7 +7056,12 @@
     "tel": "669398283",
     "email": "jolka.kwas@op.pl",
     "paczkomat": "MINKOWICKA 3 JANIKÓW",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Minkowicka 3",
+      "zip": "55-200",
+      "city": "Janików"
+    }
   },
   {
     "imie": "Jolanta",
