@@ -73,6 +73,19 @@
   },
   {
     "imie": "Agata",
+    "nazw": "Synowiec",
+    "tel": "501678912",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kaimowka 23",
+      "zip": "32-040",
+      "city": "Olszowice"
+    }
+  },
+  {
+    "imie": "Agata",
     "nazw": "Szczurek",
     "tel": "609384194",
     "email": "aszczurek74@wp.pl",
@@ -216,6 +229,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Kaszkowiak",
+    "tel": "502028433",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Świętego Stanisława 4B/2",
+      "zip": "64-500",
+      "city": "Szamotuły"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Kopczyk",
     "tel": "515019931",
     "email": "agnieszka15k@poczta.onet.pl",
@@ -301,6 +327,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Ngoka",
+    "tel": "602731929",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Anny Olszewskiej 8/4",
+      "zip": "96-100",
+      "city": "Skierniewice"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Niewińska-Radna",
     "tel": "604121638",
     "email": "aganiewinska@gazeta.pl",
@@ -354,6 +393,19 @@
     "email": "amrybaczyk@gmail.com",
     "paczkomat": "NIN01M",
     "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazw": "Rzeszotek",
+    "tel": "798258282",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Niepodległości 8",
+      "zip": "82-550",
+      "city": "Prabuty"
+    }
   },
   {
     "imie": "Agnieszka",
@@ -476,6 +528,19 @@
     "email": "agnieszka_szumilas@wp.pl",
     "paczkomat": "RZE05N",
     "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazw": "Szymska",
+    "tel": "661862160",
+    "email": "",
+    "paczkomat": "SZYMSKAAGNIESZKA@GMAIL.COM",
+    "size": "B",
+    "dpd": {
+      "street": "Ujejskiego 11/2",
+      "zip": "32-400",
+      "city": "Myślenice"
+    }
   },
   {
     "imie": "Agnieszka",
@@ -729,6 +794,19 @@
     "email": "ajad5@wp.pl",
     "paczkomat": "LOM02N",
     "size": "B"
+  },
+  {
+    "imie": "Aleksandra",
+    "nazw": "Kasprzak",
+    "tel": "502010721",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Leśna 44A",
+      "zip": "21-100",
+      "city": "Lubartów"
+    }
   },
   {
     "imie": "Aleksandra",
@@ -990,6 +1068,19 @@
   },
   {
     "imie": "Aneta",
+    "nazw": "Hamuda",
+    "tel": "605903505",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Światowida 57/36",
+      "zip": "03-144",
+      "city": "Warszawa"
+    }
+  },
+  {
+    "imie": "Aneta",
     "nazw": "Hebda",
     "tel": "666934507",
     "email": "anetahebda@outlook.com",
@@ -1235,6 +1326,19 @@
     "email": "ania3254@op.pl",
     "paczkomat": "GŁÓWNA 1G IMIELNO",
     "size": "B"
+  },
+  {
+    "imie": "Ania",
+    "nazw": "Zagożdżon",
+    "tel": "505022145",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Lawendowa 25",
+      "zip": "55-093",
+      "city": "Bielawa"
+    }
   },
   {
     "imie": "Anita",
@@ -1679,6 +1783,19 @@
     "email": "szymonzosia1@wp.pl",
     "paczkomat": "BYD23M",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Matlak",
+    "tel": "608299371",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Krzyszkowice 95",
+      "zip": "32-445",
+      "city": "Krzyszkowice"
+    }
   },
   {
     "imie": "Anna",
@@ -2925,7 +3042,7 @@
     "nazw": "Abramowicz",
     "tel": "502159043",
     "email": "abramboz@gmail.com",
-    "paczkomat": "CHT01M",
+    "paczkomat": "CHT02N",
     "size": "B"
   },
   {
@@ -3062,6 +3179,14 @@
     "tel": "602103777",
     "email": "bozena.paciorek@onet.pl",
     "paczkomat": "WAW07AP",
+    "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Sierżan",
+    "tel": "692477043",
+    "email": "bozena_sokolka1@o2.pl",
+    "paczkomat": "SOK03M",
     "size": "B"
   },
   {
@@ -3251,6 +3376,19 @@
     "email": "bird14@wp.pl",
     "paczkomat": "GDY127M",
     "size": "B"
+  },
+  {
+    "imie": "Danuta",
+    "nazw": "Mozdzierzewska",
+    "tel": "694104640",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Tarnowskiego 11/1",
+      "zip": "99-300",
+      "city": "Kutno"
+    }
   },
   {
     "imie": "Danuta",
@@ -3535,6 +3673,19 @@
     "email": "dorciako@wp.pl",
     "paczkomat": "WAW727M",
     "size": "B"
+  },
+  {
+    "imie": "Dorota",
+    "nazw": "Kosedowska",
+    "tel": "505794965",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Jana Kosznickiego 17",
+      "zip": "83-230",
+      "city": "Smętowo Graniczne"
+    }
   },
   {
     "imie": "Dorota",
@@ -4424,6 +4575,19 @@
   },
   {
     "imie": "Ewa",
+    "nazw": "Chutnik",
+    "tel": "509986636",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Strzekęcino 26 m.4",
+      "zip": "76-024",
+      "city": "Świeszyno"
+    }
+  },
+  {
+    "imie": "Ewa",
     "nazw": "Czerwiec-Koniarska",
     "tel": "664162656",
     "email": "ewaczerwiec@o2.pl",
@@ -4792,6 +4956,19 @@
     "email": "sobczyke116@gmail.com",
     "paczkomat": "MCH01N",
     "size": "B"
+  },
+  {
+    "imie": "Ewa",
+    "nazw": "Sobieniewska-Niedzielska",
+    "tel": "502136366",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Krakowskie Przedmieście 43Au/1",
+      "zip": "32-087",
+      "city": "Zielonki"
+    }
   },
   {
     "imie": "Ewa",
@@ -5901,6 +6078,19 @@
   },
   {
     "imie": "Iwona",
+    "nazw": "Wawrów",
+    "tel": "665010127",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Podgórna 5B",
+      "zip": "42-460",
+      "city": "Przeszyce"
+    }
+  },
+  {
+    "imie": "Iwona",
     "nazw": "Wawrzykowska",
     "tel": "785943693",
     "email": "driverka70@wp.pl",
@@ -6124,6 +6314,19 @@
     "email": "wozniak60@wp.pl",
     "paczkomat": "SZC38M",
     "size": "B"
+  },
+  {
+    "imie": "Jadwiga",
+    "nazw": "Bill",
+    "tel": "604330915",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Plac Wolności 7/7",
+      "zip": "55-140",
+      "city": "Żmigród"
+    }
   },
   {
     "imie": "Jadwiga",
@@ -6660,6 +6863,14 @@
   },
   {
     "imie": "Jola",
+    "nazw": "Led",
+    "tel": "660468233",
+    "email": "jolaledochowska@wp.pl",
+    "paczkomat": "GDY33M",
+    "size": "B"
+  },
+  {
+    "imie": "Jola",
     "nazw": "Makowicz",
     "tel": "602769626",
     "email": "kkwapisz@onet.eu",
@@ -6995,6 +7206,19 @@
     "email": "justyna-k20@wp.pl",
     "paczkomat": "PRABUTY UL JAGOTTY",
     "size": "B"
+  },
+  {
+    "imie": "Justyna",
+    "nazw": "Kowacka",
+    "tel": "576362927",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sokole Pole 12",
+      "zip": "42-253",
+      "city": "Janów"
+    }
   },
   {
     "imie": "Justyna",
@@ -7581,6 +7805,19 @@
     "email": "kingrox735@wp.pl",
     "paczkomat": "TARGOWA 41 TORUŃ",
     "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Kurowska",
+    "tel": "784063619",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Oś Orła Białego 44A",
+      "zip": "61-251",
+      "city": "Poznań"
+    }
   },
   {
     "imie": "Katarzyna",
@@ -8222,6 +8459,19 @@
   },
   {
     "imie": "Lucyna",
+    "nazw": "Grad",
+    "tel": "669382033",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Ząbrowo 35/2",
+      "zip": "82-220",
+      "city": "Stare Pole"
+    }
+  },
+  {
+    "imie": "Lucyna",
     "nazw": "Narkun",
     "tel": "605458332",
     "email": "",
@@ -8525,6 +8775,19 @@
   },
   {
     "imie": "Magdalena",
+    "nazw": "Wójcik",
+    "tel": "501166916",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Tarnobrzeska 93",
+      "zip": "36-110",
+      "city": "Majdan Królewski"
+    }
+  },
+  {
+    "imie": "Magdalena",
     "nazw": "Zawiślak",
     "tel": "792953943",
     "email": "mzawislak77@gmail.com",
@@ -8679,6 +8942,19 @@
     "email": "malgorzata.gasiorek123@wp.pl",
     "paczkomat": "NYS02A - ZWYCIĘSTWA 20, NYSA 48-303",
     "size": "B"
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Głębocka",
+    "tel": "514842939",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "1 Maja 107",
+      "zip": "18-305",
+      "city": "Szumowo"
+    }
   },
   {
     "imie": "Małgorzata",
@@ -11322,6 +11598,19 @@
     "email": "ww.loch@interia.pl",
     "paczkomat": "SAN05N",
     "size": "B"
+  },
+  {
+    "imie": "Wiesława",
+    "nazw": "Otłowska",
+    "tel": "697022696",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bolesława Krzywoustego 5",
+      "zip": "06-200",
+      "city": "Maków Mazowiecki"
+    }
   },
   {
     "imie": "Wiesława",
