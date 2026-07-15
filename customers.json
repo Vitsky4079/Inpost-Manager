@@ -5573,6 +5573,19 @@
   },
   {
     "imie": "Ilona",
+    "nazw": "Gniozdorz",
+    "tel": "883877004",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kopernika 14 m.7",
+      "zip": "41-100",
+      "city": "Siemianowice Śląskie"
+    }
+  },
+  {
+    "imie": "Ilona",
     "nazw": "Grablewska",
     "tel": "600030544",
     "email": "ilka71@wp.pl",
