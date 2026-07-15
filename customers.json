@@ -708,6 +708,19 @@
     "size": "B"
   },
   {
+    "imie": "Ala",
+    "nazw": "Wawrzeniuk",
+    "tel": "500198276",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kolberga 17",
+      "zip": "17-100",
+      "city": "Bielsk Podlaski"
+    }
+  },
+  {
     "imie": "Aldona",
     "nazw": "Heberlein",
     "tel": "600632501",
@@ -814,6 +827,14 @@
     "tel": "513432962",
     "email": "aleksandrak40@op.pl",
     "paczkomat": "ELB14N",
+    "size": "B"
+  },
+  {
+    "imie": "Aleksandra",
+    "nazw": "Kurjata",
+    "tel": "888557950",
+    "email": "alekskurjata@interia.pl",
+    "paczkomat": "CIE03A",
     "size": "B"
   },
   {
@@ -1395,6 +1416,19 @@
     "email": "a.bartkowiak7@wp.pl",
     "paczkomat": "SIK04M",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Blank",
+    "tel": "791996201",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Podgórna 71",
+      "zip": "87-300",
+      "city": "Brodnica"
+    }
   },
   {
     "imie": "Anna",
@@ -2370,6 +2404,19 @@
   },
   {
     "imie": "Barbara",
+    "nazw": "Moczyńska",
+    "tel": "507045494",
+    "email": "bea66@vp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Chopina 71",
+      "zip": "82-200",
+      "city": "Malbork"
+    }
+  },
+  {
+    "imie": "Barbara",
     "nazw": "Ober",
     "tel": "605330854",
     "email": "barbaraober2017@gmail.com",
@@ -3027,6 +3074,14 @@
     "tel": "668022390",
     "email": "artur23@onet.com.pl",
     "paczkomat": "LCK01M",
+    "size": "B"
+  },
+  {
+    "imie": "Bogusia",
+    "nazw": "Kwiatkowska",
+    "tel": "600890468",
+    "email": "bogusiakwiatkowska76@wp.pl",
+    "paczkomat": "RNO01M",
     "size": "B"
   },
   {
@@ -8444,6 +8499,19 @@
     "size": "B"
   },
   {
+    "imie": "Lila",
+    "nazw": "Zaremba",
+    "tel": "693358410",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wyszyńskiego 5i/32",
+      "zip": "10-457",
+      "city": "Olsztyn"
+    }
+  },
+  {
     "imie": "Liliana",
     "nazw": "Gajduk",
     "tel": "572720173",
@@ -8596,6 +8664,19 @@
     "email": "magdab122@wp.pl",
     "paczkomat": "RNT01M",
     "size": "B"
+  },
+  {
+    "imie": "Magdalena",
+    "nazw": "Daniel",
+    "tel": "786340110",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Śliwny 7 Ł",
+      "zip": "83-110",
+      "city": "Tczew"
+    }
   },
   {
     "imie": "Magdalena",
@@ -8955,6 +9036,19 @@
   },
   {
     "imie": "Małgorzata",
+    "nazw": "Gąsior",
+    "tel": "697914091",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Poznańska 8",
+      "zip": "56-419",
+      "city": "Twardogóra"
+    }
+  },
+  {
+    "imie": "Małgorzata",
     "nazw": "Gąsiorek",
     "tel": "695579633",
     "email": "malgorzata.gasiorek123@wp.pl",
@@ -9185,6 +9279,19 @@
     "email": "milkamm@poczta.onet.pl",
     "paczkomat": "KWK05M",
     "size": "B"
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Miłoch",
+    "tel": "604724701",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Śmiardowo Krajeńskie 49",
+      "zip": "77-430",
+      "city": "Krajenka"
+    }
   },
   {
     "imie": "Małgorzata",
@@ -10320,11 +10427,32 @@
   },
   {
     "imie": "Monika",
+    "nazw": "Kochańska",
+    "tel": "603313380",
+    "email": "monikaostrowska8@wp.pl",
+    "paczkomat": "ILA01N",
+    "size": "B"
+  },
+  {
+    "imie": "Monika",
     "nazw": "Kostrzewa",
     "tel": "515053688",
     "email": "monika.stempel@wp.pl",
     "paczkomat": "RAX01M",
     "size": "B"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Kowalik",
+    "tel": "694360393",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zygmunta Krasińskiego 58 m.103",
+      "zip": "01-755",
+      "city": "Warszawa"
+    }
   },
   {
     "imie": "Monika",
@@ -10381,6 +10509,19 @@
     "email": "monikamielniczek1@wp.pl",
     "paczkomat": "ULH01M",
     "size": "B"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Naruszczka",
+    "tel": "504010735",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zaruby 2",
+      "zip": "02-796",
+      "city": "Warszawa"
+    }
   },
   {
     "imie": "Monika",
