@@ -12080,5 +12080,18 @@
     "email": "zuwal@onet.eu",
     "paczkomat": "ZAB18N",
     "size": "B"
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Gąsior",
+    "tel": "697914091",
+    "email": "brak",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Poznańska 8",
+      "zip": "56-419",
+      "city": "Twardogóra"
+    }
   }
 ]
