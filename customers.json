@@ -12093,5 +12093,18 @@
       "zip": "56-419",
       "city": "Twardogóra"
     }
+  },
+  {
+    "imie": "Barbara",
+    "nazw": "Moczyńska",
+    "tel": "507045494",
+    "email": "bea66@vp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Chopina 71",
+      "zip": "82-200",
+      "city": "Malbork"
+    }
   }
 ]
