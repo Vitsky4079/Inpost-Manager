@@ -4551,7 +4551,12 @@
     "tel": "882943419",
     "email": "omoa@wp.pl",
     "paczkomat": "GNW01M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Aleja Myszkowskiego 1",
+      "zip": "83-123",
+      "city": "Piaseczno"
+    }
   },
   {
     "imie": "Emilia",
