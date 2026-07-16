@@ -855,6 +855,19 @@
   },
   {
     "imie": "Aleksandra",
+    "nazw": "Myszograj",
+    "tel": "789345875",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kwiatowa 11B/6",
+      "zip": "80-690",
+      "city": "Gdańsk"
+    }
+  },
+  {
+    "imie": "Aleksandra",
     "nazw": "Stepek",
     "tel": "501304587",
     "email": "aleksandrastepek7@gmail.com",
@@ -1601,6 +1614,19 @@
     "email": "aniahabiak05@wp.pl",
     "paczkomat": "GEX01M",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Hebda",
+    "tel": "696419847",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sędzisław 8",
+      "zip": "58-410",
+      "city": "Marciszów"
+    }
   },
   {
     "imie": "Anna",
@@ -11563,6 +11589,19 @@
   },
   {
     "imie": "Urszula",
+    "nazw": "Bolonkowska",
+    "tel": "502027145",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Osiedle Centrum",
+      "zip": "19-200",
+      "city": "Grajewo"
+    }
+  },
+  {
+    "imie": "Urszula",
     "nazw": "Faron",
     "tel": "515855073",
     "email": "stokrotka_60@op.pl",
@@ -12080,31 +12119,5 @@
     "email": "zuwal@onet.eu",
     "paczkomat": "ZAB18N",
     "size": "B"
-  },
-  {
-    "imie": "Mirosława",
-    "nazw": "Gąsior",
-    "tel": "697914091",
-    "email": "",
-    "paczkomat": "",
-    "size": "B",
-    "dpd": {
-      "street": "Poznańska 8",
-      "zip": "56-419",
-      "city": "Twardogóra"
-    }
-  },
-  {
-    "imie": "Beata",
-    "nazw": "Moczyńska",
-    "tel": "507045494",
-    "email": "bea66@vp.pl",
-    "paczkomat": "",
-    "size": "B",
-    "dpd": {
-      "street": "Chopina 71",
-      "zip": "82-200",
-      "city": "Malbork"
-    }
   }
 ]
