@@ -8711,6 +8711,14 @@
   },
   {
     "imie": "Krystyna",
+    "nazw": "Niedźwicka",
+    "tel": "695477337",
+    "email": "wojkry@buziaczek.pl",
+    "paczkomat": "NAK10M",
+    "size": "B"
+  },
+  {
+    "imie": "Krystyna",
     "nazw": "Nowak",
     "tel": "694491594",
     "email": "nowakkrysia68@gmail.com",
@@ -12598,13 +12606,5 @@
     "email": "zuwal@onet.eu",
     "paczkomat": "ZAB18N",
     "size": "B"
-  },
-  {
-    "imie": "Basia",
-    "nazw": "Anders Zaniewska",
-    "tel": "504443060",
-    "email": "basia.zaniewska@gmail.com",
-    "paczkomat": "POZ08N",
-    "size": "A"
   }
 ]
