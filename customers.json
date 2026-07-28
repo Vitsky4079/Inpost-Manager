@@ -1256,6 +1256,19 @@
   },
   {
     "imie": "Anetta",
+    "nazw": "Chramega",
+    "tel": "608072312",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sędzisław 53/5",
+      "zip": "58-410",
+      "city": "Marciszów"
+    }
+  },
+  {
+    "imie": "Anetta",
     "nazw": "Czajka",
     "tel": "692891627",
     "email": "Anetta350@op.pl",
@@ -1712,6 +1725,19 @@
     "email": "maxpol123@wp.pl",
     "paczkomat": "STS01M",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Klimek",
+    "tel": "608494384",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Lwowska 136/18",
+      "zip": "33-300",
+      "city": "Nowy Sącz"
+    }
   },
   {
     "imie": "Anna",
@@ -2843,6 +2869,19 @@
   },
   {
     "imie": "Beata",
+    "nazw": "Madej",
+    "tel": "508245673",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Marynarki Wojennej 1/5",
+      "zip": "82-220",
+      "city": "Stare Pole"
+    }
+  },
+  {
+    "imie": "Beata",
     "nazw": "Matuszewska",
     "tel": "799836009",
     "email": "bet49@wp.pl",
@@ -3140,6 +3179,19 @@
     "email": "b_rawska@o2.pl",
     "paczkomat": "TRA08M",
     "size": "B"
+  },
+  {
+    "imie": "Bogumiła",
+    "nazw": "Bundt",
+    "tel": "500077626",
+    "email": "bogumila1.bundt@wp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Gdyńska 20",
+      "zip": "83-330",
+      "city": "Żukowo"
+    }
   },
   {
     "imie": "Bogumiła",
@@ -4888,6 +4940,19 @@
   },
   {
     "imie": "Ewa",
+    "nazw": "Giza",
+    "tel": "668161324",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Toporzysko 367",
+      "zip": "34-240",
+      "city": "Jordanów"
+    }
+  },
+  {
+    "imie": "Ewa",
     "nazw": "Granat",
     "tel": "512307090",
     "email": "karolek282@op.pl",
@@ -5471,6 +5536,19 @@
     "email": "antecka@op.pl",
     "paczkomat": "KON18M",
     "size": "B"
+  },
+  {
+    "imie": "Grażyna",
+    "nazw": "Bialik",
+    "tel": "695927312",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nauczycielska 1A/1",
+      "zip": "55-106",
+      "city": "Zawonia"
+    }
   },
   {
     "imie": "Grażyna",
@@ -6648,6 +6726,19 @@
   },
   {
     "imie": "Izabela",
+    "nazw": "Wardęga-Labe",
+    "tel": "512722321",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Paderewskiego 42",
+      "zip": "43-140",
+      "city": "Lędziny"
+    }
+  },
+  {
+    "imie": "Izabela",
     "nazw": "Woźniak",
     "tel": "510646753",
     "email": "wozniak60@wp.pl",
@@ -6735,6 +6826,19 @@
     "email": "jana119@onet.pl",
     "paczkomat": "BYT03A",
     "size": "B"
+  },
+  {
+    "imie": "Janusz",
+    "nazw": "Szymczak",
+    "tel": "725158794",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Dokerska 28/14",
+      "zip": "54-142",
+      "city": "Wrocław"
+    }
   },
   {
     "imie": "Jarka",
@@ -7132,6 +7236,19 @@
   },
   {
     "imie": "Joanna",
+    "nazw": "Siudacz-Tesmer",
+    "tel": "721521457",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Złota 48",
+      "zip": "86-302",
+      "city": "Mokre"
+    }
+  },
+  {
+    "imie": "Joanna",
     "nazw": "Skokowska",
     "tel": "604263469",
     "email": "joannas9@wp.pl",
@@ -7260,6 +7377,14 @@
   },
   {
     "imie": "Jola",
+    "nazw": "Świerc",
+    "tel": "663041514",
+    "email": "goska199124@wp.pl",
+    "paczkomat": "SNL06M",
+    "size": "B"
+  },
+  {
+    "imie": "Jola",
     "nazw": "Ufniarz",
     "tel": "601203597",
     "email": "Jolek32@op.pl",
@@ -7366,6 +7491,19 @@
     "email": "jola.gorecka@op.pl",
     "paczkomat": "PRU21M",
     "size": "B"
+  },
+  {
+    "imie": "Jolanta",
+    "nazw": "Jakubczak",
+    "tel": "508394877",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nalkowskich 84/51",
+      "zip": "20-470",
+      "city": "Lublin"
+    }
   },
   {
     "imie": "Jolanta",
@@ -7700,6 +7838,19 @@
     "email": "kamilawachowska@o2.pl",
     "paczkomat": "PPL01N",
     "size": "B"
+  },
+  {
+    "imie": "Kamilla",
+    "nazw": "Kaźmierczak",
+    "tel": "693700328",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Budowlanych 4/27",
+      "zip": "62-200",
+      "city": "Gniezno"
+    }
   },
   {
     "imie": "Kamilla",
@@ -8243,6 +8394,19 @@
     "email": "kasia.123321@o2.pl",
     "paczkomat": "KIQ01M",
     "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Macha",
+    "tel": "506576436",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Piłsudskiego 103",
+      "zip": "41-707",
+      "city": "Ruda Śląska"
+    }
   },
   {
     "imie": "Katarzyna",
@@ -8942,6 +9106,19 @@
   },
   {
     "imie": "Magda",
+    "nazw": "Mielczarek",
+    "tel": "609734811",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Polna 9",
+      "zip": "55-050",
+      "city": "Wojnarowice"
+    }
+  },
+  {
+    "imie": "Magda",
     "nazw": "Motor",
     "tel": "661600812",
     "email": "mostm@interia.pl",
@@ -9631,6 +9808,19 @@
   },
   {
     "imie": "Małgorzata",
+    "nazw": "Mikus",
+    "tel": "664938411",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "1 Maja 4A",
+      "zip": "39-400",
+      "city": "Tarnobrzeg"
+    }
+  },
+  {
+    "imie": "Małgorzata",
     "nazw": "Milka",
     "tel": "508309436",
     "email": "milkamm@poczta.onet.pl",
@@ -9911,6 +10101,19 @@
       "street": "Cicha 12",
       "zip": "87-148",
       "city": "Chełmża"
+    }
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Zaręba",
+    "tel": "516190565",
+    "email": "marokko21@wp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Miodusy Stasiowięta 16A",
+      "zip": "18-200",
+      "city": "Wysokie Mazowieckie"
     }
   },
   {
@@ -11278,7 +11481,7 @@
     "paczkomat": "",
     "size": "B",
     "dpd": {
-      "street": "Jawornik 279",
+      "street": "Cegielskiego 2A",
       "zip": "32-400",
       "city": "Myślenice"
     }
