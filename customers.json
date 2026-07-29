@@ -937,6 +937,19 @@
   },
   {
     "imie": "Alicja",
+    "nazw": "Dmochowska",
+    "tel": "507405431",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wesoła 60",
+      "zip": "05-230",
+      "city": "Kobyłka"
+    }
+  },
+  {
+    "imie": "Alicja",
     "nazw": "Domochowska",
     "tel": "507405431",
     "email": "",
@@ -7329,6 +7342,19 @@
   },
   {
     "imie": "Jola",
+    "nazw": "Bursy",
+    "tel": "510283615",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bierdzańska 14",
+      "zip": "46-282",
+      "city": "Laskowice"
+    }
+  },
+  {
+    "imie": "Jola",
     "nazw": "Jolanta",
     "tel": "537308475",
     "email": "jolaklim31@wp.pl",
@@ -8361,7 +8387,7 @@
     "paczkomat": "",
     "size": "B",
     "dpd": {
-      "street": "Oś Orła Białego 44A",
+      "street": "Oś Czecha Kolektura Lotto 73",
       "zip": "61-251",
       "city": "Poznań"
     }
@@ -10957,6 +10983,19 @@
     "size": "B"
   },
   {
+    "imie": "Mirka",
+    "nazw": "Wójcicka",
+    "tel": "607627512",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Poznańska 76",
+      "zip": "61-160",
+      "city": "Daszewice"
+    }
+  },
+  {
     "imie": "Mirosława",
     "nazw": "Andres",
     "tel": "691893399",
@@ -11772,6 +11811,19 @@
   },
   {
     "imie": "Renata",
+    "nazw": "Witt",
+    "tel": "502855438",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Warszawska 659",
+      "zip": "05-083",
+      "city": "Zaborów"
+    }
+  },
+  {
+    "imie": "Renata",
     "nazw": "Zielińska",
     "tel": "608572488",
     "email": "zielinska.renata1@wp.pl",
@@ -11881,6 +11933,19 @@
     "email": "sabinakielb@o2.pl",
     "paczkomat": "BGI01M",
     "size": "B"
+  },
+  {
+    "imie": "Sara",
+    "nazw": "Tubacka",
+    "tel": "784630536",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Warzywna 7/10",
+      "zip": "62-200",
+      "city": "Gniezno"
+    }
   },
   {
     "imie": "Sebastian",
