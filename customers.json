@@ -4246,6 +4246,19 @@
   },
   {
     "imie": "Edyta",
+    "nazw": "Ciesielska",
+    "tel": "605491354",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Chlopickiego 9",
+      "zip": "05-480",
+      "city": "Karczew"
+    }
+  },
+  {
+    "imie": "Edyta",
     "nazw": "Dobrosielska",
     "tel": "531182927",
     "email": "dobrosielskajulia7@gmail.com",
@@ -4522,6 +4535,19 @@
     "email": "elzbieta.burdzy@gmail.com",
     "paczkomat": "BOL13M",
     "size": "B"
+  },
+  {
+    "imie": "Elżbieta",
+    "nazw": "Cichowska",
+    "tel": "666895568",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sienkiewicza 8A",
+      "zip": "55-020",
+      "city": "Węgry"
+    }
   },
   {
     "imie": "Elżbieta",
@@ -7758,6 +7784,14 @@
       "zip": "42-253",
       "city": "Janów"
     }
+  },
+  {
+    "imie": "Justyna",
+    "nazw": "Kowalska",
+    "tel": "600915472",
+    "email": "japanwoman@wp.pl",
+    "paczkomat": "GDA161M",
+    "size": "B"
   },
   {
     "imie": "Justyna",
