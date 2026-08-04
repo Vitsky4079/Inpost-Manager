@@ -1510,10 +1510,10 @@
   },
   {
     "imie": "Anna",
-    "nazw": "Sowa",
+    "nazw": "Barbara Sowa",
     "tel": "533220133",
     "email": "",
-    "paczkomat": "MDT01A",
+    "paczkomat": "",
     "size": "B",
     "dpd": {
       "street": "Nienadowa 540",
@@ -2187,6 +2187,19 @@
       "street": "Budziszyńska 10/57",
       "zip": "70-023",
       "city": "Szczecin"
+    }
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Sowa",
+    "tel": "692817380",
+    "email": "anna-s16@wp.pl",
+    "paczkomat": "MDT01A",
+    "size": "B",
+    "dpd": {
+      "street": "Nienadowa 540",
+      "zip": "37-750",
+      "city": "Dubiecko"
     }
   },
   {
