@@ -303,6 +303,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Łaś",
+    "tel": "606329194",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Piekarska 199",
+      "zip": "43-300",
+      "city": "Bielsko-Biała"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Mi",
     "tel": "514652060",
     "email": "agusia3301@gmail.com",
@@ -1573,6 +1586,14 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Chrobak",
+    "tel": "502562578",
+    "email": "chrobak.anna@gmail.com",
+    "paczkomat": "ELB11M",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
     "nazw": "Chudziak",
     "tel": "508099633",
     "email": "piortchudziak74@interia.pl",
@@ -1623,6 +1644,19 @@
     "email": "dziedzic.ania@op.pl",
     "paczkomat": "DWA01BAPP",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Fąfara",
+    "tel": "609079151",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bieszczadzka 18D",
+      "zip": "38-100",
+      "city": "Strzyżów"
+    }
   },
   {
     "imie": "Anna",
@@ -2090,6 +2124,19 @@
     "email": "poplawskagabriel@gmail.com",
     "paczkomat": "JANA PAWŁA 2 26 GRÓJEC",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Portna",
+    "tel": "667657950",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wojciecha Maya 90/A",
+      "zip": "64-000",
+      "city": "Koscan"
+    }
   },
   {
     "imie": "Anna",
@@ -3527,6 +3574,19 @@
     "email": "adrianna.szostak@wp.pl",
     "paczkomat": "ZAG01L",
     "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Szramka",
+    "tel": "669602872",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kasztanowa 4/1",
+      "zip": "83-123",
+      "city": "Piaseczno"
+    }
   },
   {
     "imie": "Bożena",
@@ -6616,7 +6676,12 @@
     "tel": "785943693",
     "email": "driverka70@wp.pl",
     "paczkomat": "ELB19M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Wiejska 2A/9",
+      "zip": "82-300",
+      "city": "Elbląg"
+    }
   },
   {
     "imie": "Iwona",
@@ -6641,6 +6706,19 @@
     "email": "iwonawydurska31@wp.pl",
     "paczkomat": "WIECZFNIA KOŚCIELNA 96 WIECZFNIA KOŚCIELNA",
     "size": "B"
+  },
+  {
+    "imie": "Iwona",
+    "nazw": "Zagrodnik",
+    "tel": "665221160",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wachowiaka 9/21",
+      "zip": "88-100",
+      "city": "Inowrocław"
+    }
   },
   {
     "imie": "Iwona",
@@ -8608,6 +8686,19 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Machtyl",
+    "tel": "793964197",
+    "email": "kmachtyl79@gmail.com",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Żeromskiego 6B/6",
+      "zip": "84-150",
+      "city": "Hel"
+    }
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Majka",
     "tel": "781043087",
     "email": "kaska712@wp.pl",
@@ -8716,6 +8807,14 @@
     "tel": "781171794",
     "email": "gosiasadanowicz@vp.pl",
     "paczkomat": "SOK06M",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Rudzik-Faliszewska",
+    "tel": "501789305",
+    "email": "kasia2703@vp.pl",
+    "paczkomat": "INS01N",
     "size": "B"
   },
   {
@@ -9317,18 +9416,18 @@
   },
   {
     "imie": "Magda",
-    "nazw": "Motor",
-    "tel": "661600812",
-    "email": "mostm@interia.pl",
-    "paczkomat": "TYC03N",
+    "nazw": "Mordzon",
+    "tel": "883060800",
+    "email": "czar331@wp.pl",
+    "paczkomat": "GDY114M",
     "size": "B"
   },
   {
     "imie": "Magda",
-    "nazw": "Mrodzon",
-    "tel": "883060800",
-    "email": "czar331@wp.pl",
-    "paczkomat": "GDY114M",
+    "nazw": "Motor",
+    "tel": "661600812",
+    "email": "mostm@interia.pl",
+    "paczkomat": "TYC03N",
     "size": "B"
   },
   {
