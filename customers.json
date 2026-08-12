@@ -1037,6 +1037,19 @@
   },
   {
     "imie": "Alicja",
+    "nazw": "Mendakiewicz",
+    "tel": "783033370",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Łukasińskiego 33/1",
+      "zip": "58-100",
+      "city": "Świdnica"
+    }
+  },
+  {
+    "imie": "Alicja",
     "nazw": "Mijas",
     "tel": "602259625",
     "email": "alicjamijas@wp.pl",
@@ -3872,8 +3885,8 @@
     "imie": "Darek",
     "nazw": "Kłos",
     "tel": "503043220",
-    "email": "POZ15A",
-    "paczkomat": "OŚ. LEŚNE 21A KOZIEGŁOWY",
+    "email": "xxrenia1956xx@o2.pl",
+    "paczkomat": "POZ15A",
     "size": "B"
   },
   {
@@ -6459,7 +6472,7 @@
     "nazw": "Korzeniewska",
     "tel": "535391113",
     "email": "iwonakorzeniewska196@gmail.com",
-    "paczkomat": "DĄBROWSKIEGO 26 WAŁCZ",
+    "paczkomat": "WLA01M",
     "size": "B"
   },
   {
@@ -9667,6 +9680,19 @@
   },
   {
     "imie": "Magdalena",
+    "nazw": "Kulawinek",
+    "tel": "723239934",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kasztanowa 15A/1",
+      "zip": "66-330",
+      "city": "Pszczew"
+    }
+  },
+  {
+    "imie": "Magdalena",
     "nazw": "Małecka",
     "tel": "698547862",
     "email": "magdamalecka23@wp.pl",
@@ -10960,6 +10986,14 @@
     "tel": "509832289",
     "email": "marlen-malek@wp.pl",
     "paczkomat": "KUNICKIEGO 148 LUBLIN",
+    "size": "B"
+  },
+  {
+    "imie": "Marlena",
+    "nazw": "Porzuckowiak",
+    "tel": "660292894",
+    "email": "nena118@interia.pl",
+    "paczkomat": "SZU03M",
     "size": "B"
   },
   {
