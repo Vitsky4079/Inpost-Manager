@@ -2203,6 +2203,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Rodakowska",
+    "tel": "607123932",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Żeromskiego 31",
+      "zip": "26-720",
+      "city": "Policzna"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Rosa",
     "tel": "609262099",
     "email": "annarosa@poczta.onet.pl",
@@ -4486,6 +4499,19 @@
     "email": "kubakluba@vp.pl",
     "paczkomat": "DLN03M",
     "size": "B"
+  },
+  {
+    "imie": "Edyta",
+    "nazw": "Kraszewska-Sznober",
+    "tel": "500604288",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Mokra 350",
+      "zip": "42-120",
+      "city": "Miedźno"
+    }
   },
   {
     "imie": "Edyta",
@@ -8627,6 +8653,19 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Kalinowska",
+    "tel": "507306959",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Halickiego 42A",
+      "zip": "20-874",
+      "city": "Lublin"
+    }
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Karasiewicz",
     "tel": "504266364",
     "email": "",
@@ -11678,6 +11717,14 @@
     "tel": "608449772",
     "email": "monikalopata@tlen.pl",
     "paczkomat": "WAW721M",
+    "size": "B"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Marekwia",
+    "tel": "600065236",
+    "email": "monikamarekwia84@gmail.com",
+    "paczkomat": "CLS06M",
     "size": "B"
   },
   {
