@@ -1111,6 +1111,19 @@
   },
   {
     "imie": "Alina",
+    "nazw": "Cielęcka",
+    "tel": "664168541",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wiosenna 15",
+      "zip": "86-022",
+      "city": "Dobrcz"
+    }
+  },
+  {
+    "imie": "Alina",
     "nazw": "Kazubska",
     "tel": "601270841",
     "email": "alinakazubska@interia.pl",
@@ -2261,6 +2274,19 @@
     "email": "aniat67@o2.pl",
     "paczkomat": "WDW06M",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Śnieżek",
+    "tel": "604976674",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Żniwna 39",
+      "zip": "38-400",
+      "city": "Krosno"
+    }
   },
   {
     "imie": "Anna",
@@ -4762,6 +4788,19 @@
   },
   {
     "imie": "Elżbieta",
+    "nazw": "Fiszer",
+    "tel": "609456695",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Fryderyka Chopina 120",
+      "zip": "64-100",
+      "city": "Leszno"
+    }
+  },
+  {
+    "imie": "Elżbieta",
     "nazw": "Grund",
     "tel": "606909992",
     "email": "elka4054@wp.pl",
@@ -5366,6 +5405,19 @@
   },
   {
     "imie": "Ewa",
+    "nazw": "Kusznier",
+    "tel": "661281724",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Pogodna 36",
+      "zip": "59-800",
+      "city": "Lubań"
+    }
+  },
+  {
+    "imie": "Ewa",
     "nazw": "Latusek",
     "tel": "600302447",
     "email": "ewuska05@wp.pl",
@@ -5714,6 +5766,19 @@
     "email": "ewelina.kaczmarczyk88@wp.pl",
     "paczkomat": "JED08M",
     "size": "B"
+  },
+  {
+    "imie": "Ewelina",
+    "nazw": "Semkło",
+    "tel": "662030353",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Poznańska 105D/4",
+      "zip": "66-300",
+      "city": "Międzyrzecz"
+    }
   },
   {
     "imie": "Ewelina",
@@ -7257,6 +7322,19 @@
   },
   {
     "imie": "Joanna",
+    "nazw": "Czuba",
+    "tel": "535026584",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Żelazowskiego 28",
+      "zip": "30-694",
+      "city": "Kraków"
+    }
+  },
+  {
+    "imie": "Joanna",
     "nazw": "Czypek",
     "tel": "607968101",
     "email": "",
@@ -7940,6 +8018,19 @@
     "email": "jolantalubach@onet.pl",
     "paczkomat": "RXO01M",
     "size": "B"
+  },
+  {
+    "imie": "Jolanta",
+    "nazw": "Maczuga",
+    "tel": "792014209",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kościelna 17/9",
+      "zip": "74-100",
+      "city": "Gryfino"
+    }
   },
   {
     "imie": "Jolanta",
@@ -9921,7 +10012,7 @@
   {
     "imie": "Małgorzata",
     "nazw": "Białk",
-    "tel": "501639397",
+    "tel": "501639398",
     "email": "gosikb75@wp.pl",
     "paczkomat": "RUM03N",
     "size": "B"
@@ -10933,6 +11024,19 @@
     "email": "zabulka2008@wp.pl",
     "paczkomat": "KOD06M",
     "size": "B"
+  },
+  {
+    "imie": "Mariola",
+    "nazw": "Misiewicz",
+    "tel": "510760996",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Osiedle Robotnicze 9",
+      "zip": "11-320",
+      "city": "Jeziorany"
+    }
   },
   {
     "imie": "Mariola",
@@ -12665,6 +12769,19 @@
   },
   {
     "imie": "Sylwia",
+    "nazw": "Tyszka",
+    "tel": "600112398",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Malinowa 2",
+      "zip": "81-198",
+      "city": "Pierwoszyno"
+    }
+  },
+  {
+    "imie": "Sylwia",
     "nazw": "Warmińska",
     "tel": "885453030",
     "email": "warminskasylwia@gmail.com",
@@ -12969,6 +13086,19 @@
     "email": "urszula.siupka@gmail.com",
     "paczkomat": "MYS04A",
     "size": "B"
+  },
+  {
+    "imie": "Urszula",
+    "nazw": "Soja",
+    "tel": "603386219",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Skrzynka 110",
+      "zip": "33-230",
+      "city": "Szczucin"
+    }
   },
   {
     "imie": "Viola",
