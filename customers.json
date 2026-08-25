@@ -266,6 +266,14 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Kowalewicz",
+    "tel": "603633533",
+    "email": "emilkagnieszka@gmail.com",
+    "paczkomat": "WAW725M",
+    "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Kozakiewicz",
     "tel": "501466892",
     "email": "agakozakiewicz78@gmail.com",
@@ -2746,6 +2754,14 @@
   },
   {
     "imie": "Barbara",
+    "nazw": "Snopkowska",
+    "tel": "605429970",
+    "email": "snopki4@gmail.com",
+    "paczkomat": "KTI01M",
+    "size": "B"
+  },
+  {
+    "imie": "Barbara",
     "nazw": "Szelengiewicz",
     "tel": "725726623",
     "email": "barbas13@interia.pl",
@@ -4199,7 +4215,7 @@
     "imie": "Dorota",
     "nazw": "Kubat",
     "tel": "505479102",
-    "email": "dprotakubat4@gmail.com",
+    "email": "dorotakubat4@gmail.com",
     "paczkomat": "ZYR13M",
     "size": "B"
   },
@@ -9823,6 +9839,19 @@
   },
   {
     "imie": "Magdalena",
+    "nazw": "Łącz",
+    "tel": "783101600",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Świecie Nad Osą 108",
+      "zip": "86-341",
+      "city": "Świecie Nad Osą"
+    }
+  },
+  {
+    "imie": "Magdalena",
     "nazw": "Małecka",
     "tel": "698547862",
     "email": "magdamalecka23@wp.pl",
@@ -11633,6 +11662,19 @@
     "size": "B"
   },
   {
+    "imie": "Mirosława",
+    "nazw": "Rogowska",
+    "tel": "726726248",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Długa 65",
+      "zip": "83-047",
+      "city": "Przywidz"
+    }
+  },
+  {
     "imie": "Monia",
     "nazw": "Monik",
     "tel": "733569529",
@@ -11654,6 +11696,14 @@
     "tel": "663862912",
     "email": "monika34679@gmail.com",
     "paczkomat": "KUT16M",
+    "size": "B"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Chmielewska",
+    "tel": "697606302",
+    "email": "monikakaluzna77@gmail.com",
+    "paczkomat": "RWL01M",
     "size": "B"
   },
   {
@@ -11894,7 +11944,7 @@
     "nazw": "Rzepecka",
     "tel": "796532095",
     "email": "rzepeckamonika19@gmail.com",
-    "paczkomat": "GCMO1M",
+    "paczkomat": "GCM01M",
     "size": "B"
   },
   {
@@ -12601,6 +12651,19 @@
     "email": "simona_grzesik@wp.pl",
     "paczkomat": "NIB01M",
     "size": "B"
+  },
+  {
+    "imie": "Stanisława",
+    "nazw": "Arczewska",
+    "tel": "570283533",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Osiedlowa 2",
+      "zip": "28-210",
+      "city": "Bogoria"
+    }
   },
   {
     "imie": "Stanisława",
