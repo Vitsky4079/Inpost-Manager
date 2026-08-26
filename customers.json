@@ -168,6 +168,14 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Cymańska",
+    "tel": "606212008",
+    "email": "agacym911@gmail.com",
+    "paczkomat": "GRU33M",
+    "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Derucka-Popiołek",
     "tel": "604613318",
     "email": "",
@@ -505,6 +513,14 @@
     "tel": "609453088",
     "email": "agnieszka.sobierajek@wp.pl",
     "paczkomat": "ZAR12M",
+    "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazw": "Sobolewska",
+    "tel": "667063637",
+    "email": "agnieszka.sobolewska@onet.eu",
+    "paczkomat": "TMS02A",
     "size": "B"
   },
   {
@@ -2208,6 +2224,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Pytlik",
+    "tel": "785141577",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nabieszczany 317",
+      "zip": "38-500",
+      "city": "Sanok"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Radzik",
     "tel": "733112201",
     "email": "anulka.radzik@wp.pl",
@@ -2766,6 +2795,14 @@
     "tel": "725726623",
     "email": "barbas13@interia.pl",
     "paczkomat": "OSX01M",
+    "size": "B"
+  },
+  {
+    "imie": "Barbara",
+    "nazw": "Torbicka",
+    "tel": "505070340",
+    "email": "baska.cytryna@poczta.onet.pl",
+    "paczkomat": "JZD02BAPP",
     "size": "B"
   },
   {
@@ -3545,6 +3582,14 @@
     "tel": "662987934",
     "email": "bozena25aw@op.pl",
     "paczkomat": "HJN02M",
+    "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Jakubowska",
+    "tel": "692208995",
+    "email": "jakubowskabo@gmail.com",
+    "paczkomat": "MEZN01BAPP",
     "size": "B"
   },
   {
@@ -4813,6 +4858,19 @@
       "street": "Fryderyka Chopina 120",
       "zip": "64-100",
       "city": "Leszno"
+    }
+  },
+  {
+    "imie": "Elżbieta",
+    "nazw": "Gawarkiewicz",
+    "tel": "782504360",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Będargowo 75",
+      "zip": "73-260",
+      "city": "Pełczyce"
     }
   },
   {
@@ -6825,6 +6883,19 @@
     "email": "iseliskar@poczta.fm",
     "paczkomat": "MKW04N",
     "size": "B"
+  },
+  {
+    "imie": "Iwona",
+    "nazw": "Skakuj",
+    "tel": "501723703",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Górna 3C/4",
+      "zip": "11-400",
+      "city": "Kętrzyn"
+    }
   },
   {
     "imie": "Iwona",
@@ -9590,6 +9661,14 @@
   },
   {
     "imie": "Lucyna",
+    "nazw": "Marchwiana",
+    "tel": "784413183",
+    "email": "marysiamarchwiana11@gmail.com",
+    "paczkomat": "ZMU02M",
+    "size": "B"
+  },
+  {
+    "imie": "Lucyna",
     "nazw": "Narkun",
     "tel": "605458332",
     "email": "",
@@ -12050,6 +12129,19 @@
   },
   {
     "imie": "Natalia",
+    "nazw": "Galant",
+    "tel": "782889700",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Garzew 30",
+      "zip": "62-817",
+      "city": "Żelazków"
+    }
+  },
+  {
+    "imie": "Natalia",
     "nazw": "Pauch",
     "tel": "662545426",
     "email": "nataliapauch@wp.pl",
@@ -12497,6 +12589,19 @@
     "email": "tydka@buziaczek.pl",
     "paczkomat": "SID16M",
     "size": "B"
+  },
+  {
+    "imie": "Renata",
+    "nazw": "Wachowiak",
+    "tel": "669889688",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kłodzka 57",
+      "zip": "57-540",
+      "city": "Lądek Zdrój"
+    }
   },
   {
     "imie": "Renata",
