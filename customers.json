@@ -2497,6 +2497,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Zapora",
+    "tel": "515808477",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Suchawa 66",
+      "zip": "22-200",
+      "city": "Włodawa"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Zięba",
     "tel": "695202433",
     "email": "simonsmummy2012@gmail.com",
@@ -4224,6 +4237,19 @@
   },
   {
     "imie": "Dorota",
+    "nazw": "Koleńczuk",
+    "tel": "668467322",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Letnia 5",
+      "zip": "69-100",
+      "city": "Słubice"
+    }
+  },
+  {
+    "imie": "Dorota",
     "nazw": "Konecka",
     "tel": "508817210",
     "email": "",
@@ -4254,6 +4280,19 @@
       "street": "Jana Kosznickiego 17",
       "zip": "83-230",
       "city": "Smętowo Graniczne"
+    }
+  },
+  {
+    "imie": "Dorota",
+    "nazw": "Kosek",
+    "tel": "508370719",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Lwowska 17",
+      "zip": "34-100",
+      "city": "Wadowice"
     }
   },
   {
@@ -4628,6 +4667,19 @@
     "email": "edytam.1987.25@wp.pl",
     "paczkomat": "LOD309M",
     "size": "B"
+  },
+  {
+    "imie": "Edyta",
+    "nazw": "Opalewska",
+    "tel": "726761548",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wymyśle 1",
+      "zip": "09-533",
+      "city": "Słubice"
+    }
   },
   {
     "imie": "Edyta",
@@ -10505,6 +10557,19 @@
   },
   {
     "imie": "Małgorzata",
+    "nazw": "Miłejszo",
+    "tel": "667738798",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zaborowskiej 12/16",
+      "zip": "76-200",
+      "city": "Słupsk"
+    }
+  },
+  {
+    "imie": "Małgorzata",
     "nazw": "Milka",
     "tel": "508309436",
     "email": "milkamm@poczta.onet.pl",
@@ -10550,7 +10615,7 @@
     "nazw": "Niedźwiedź",
     "tel": "607316606",
     "email": "malgorzataniedzwiedz1@wp.pl",
-    "paczkomat": "SVK01M",
+    "paczkomat": "PAV01BAPP",
     "size": "B"
   },
   {
@@ -10914,10 +10979,15 @@
   {
     "imie": "Maria",
     "nazw": "Czyszczoń",
-    "tel": "575585042",
+    "tel": "575584042",
     "email": "czyszczonmaria51@gmail.com",
     "paczkomat": "CBA01M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Chabówka 139",
+      "zip": "34-700",
+      "city": "Rabka-Zdrój"
+    }
   },
   {
     "imie": "Maria",
@@ -11980,8 +12050,8 @@
     "imie": "Monika",
     "nazw": "Naruszczka",
     "tel": "504010735",
-    "email": "",
-    "paczkomat": "",
+    "email": "m.naruszczka@wp.pl",
+    "paczkomat": "WAW209M",
     "size": "B",
     "dpd": {
       "street": "Zaruby 2",
@@ -12196,6 +12266,14 @@
     "tel": "600483417",
     "email": "ola-szygula4@wp.pl",
     "paczkomat": "KSZ04M",
+    "size": "B"
+  },
+  {
+    "imie": "Oleks",
+    "nazw": "Bury",
+    "tel": "600669535",
+    "email": "ewakrawczyk1@poczta.onet.pl",
+    "paczkomat": "GRJ02M",
     "size": "B"
   },
   {
@@ -13669,6 +13747,14 @@
     "tel": "669344666",
     "email": "misia.pa@wp.pl",
     "paczkomat": "BVK01M",
+    "size": "B"
+  },
+  {
+    "imie": "Zofia",
+    "nazw": "Schmid",
+    "tel": "603060908",
+    "email": "fiazo2@wp.pl",
+    "paczkomat": "BYD04H",
     "size": "B"
   },
   {
