@@ -1291,6 +1291,14 @@
   },
   {
     "imie": "Aneta",
+    "nazw": "Kaczyńska",
+    "tel": "603422290",
+    "email": "akacz@vp.pl",
+    "paczkomat": "BRK02M",
+    "size": "B"
+  },
+  {
+    "imie": "Aneta",
     "nazw": "Kamonciak",
     "tel": "501505004",
     "email": "Aneta.kamonciak@wp.pl",
@@ -1678,6 +1686,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Bunalska",
+    "tel": "721924731",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Mazurska 15/14",
+      "zip": "13-124",
+      "city": "Kozłowo"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Cencora",
     "tel": "721286523",
     "email": "",
@@ -1978,10 +1999,15 @@
   {
     "imie": "Anna",
     "nazw": "Kolmaga",
-    "tel": "601611746",
-    "email": "a.kolmaga@onet.eu",
+    "tel": "501412418",
+    "email": "",
     "paczkomat": "NAD02M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Bolesława Prusa 86",
+      "zip": "05-800",
+      "city": "Pruszków"
+    }
   },
   {
     "imie": "Anna",
@@ -2065,7 +2091,7 @@
   },
   {
     "imie": "Anna",
-    "nazw": "Litwińska",
+    "nazw": "Litowińska",
     "tel": "691479933",
     "email": "alitowinska@gmail.com",
     "paczkomat": "NYS03A",
@@ -2130,6 +2156,19 @@
       "street": "Krzyszkowice 95",
       "zip": "32-445",
       "city": "Krzyszkowice"
+    }
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Michalska",
+    "tel": "606421764",
+    "email": "michalska233@wp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Stary Kisielin-Dojazdowa 23",
+      "zip": "66-002",
+      "city": "Zielona Góra"
     }
   },
   {
@@ -3901,7 +3940,7 @@
     "nazw": "Mordyl",
     "tel": "604222345",
     "email": "mania77m@wp.pl",
-    "paczkomat": "DRC01M",
+    "paczkomat": "KSWO01M",
     "size": "B"
   },
   {
@@ -6562,6 +6601,19 @@
   },
   {
     "imie": "Ilona",
+    "nazw": "Grzonka",
+    "tel": "663773965",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Chłopowska 23",
+      "zip": "89-642",
+      "city": "Rytel"
+    }
+  },
+  {
+    "imie": "Ilona",
     "nazw": "Kaczmarek",
     "tel": "510268621",
     "email": "tolka210@interia.pl",
@@ -8443,6 +8495,19 @@
     "size": "B"
   },
   {
+    "imie": "Jolanta",
+    "nazw": "Wójcik",
+    "tel": "501194024",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kalcytowa 19",
+      "zip": "26-026",
+      "city": "Bilcza"
+    }
+  },
+  {
     "imie": "Julia",
     "nazw": "Marciniak",
     "tel": "607872339",
@@ -10049,6 +10114,19 @@
     "email": "magdab122@wp.pl",
     "paczkomat": "RNT01M",
     "size": "B"
+  },
+  {
+    "imie": "Magdalena",
+    "nazw": "Dąbrowska",
+    "tel": "696091876",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zdrojowa 29e",
+      "zip": "33-300",
+      "city": "Nowy Sącz"
+    }
   },
   {
     "imie": "Magdalena",
@@ -12063,6 +12141,19 @@
   },
   {
     "imie": "Monika",
+    "nazw": "Cebula",
+    "tel": "698017059",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Opolska 64",
+      "zip": "46-061",
+      "city": "Zimnice Wielkie"
+    }
+  },
+  {
+    "imie": "Monika",
     "nazw": "Chmielewska",
     "tel": "697606302",
     "email": "monikakaluzna77@gmail.com",
@@ -12309,6 +12400,19 @@
     "email": "rzepeckamonika19@gmail.com",
     "paczkomat": "GCM01M",
     "size": "B"
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Smolarek",
+    "tel": "515185249",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Mroczki Małe 33",
+      "zip": "98-235",
+      "city": "Błaszki"
+    }
   },
   {
     "imie": "Monika",
@@ -13151,6 +13255,19 @@
   },
   {
     "imie": "Sylwia",
+    "nazw": "Gójska",
+    "tel": "795925994",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wierzyńskiego 6c/6",
+      "zip": "73-110",
+      "city": "Stargard"
+    }
+  },
+  {
+    "imie": "Sylwia",
     "nazw": "Hajdasz",
     "tel": "502529820",
     "email": "shaj@wp.pl",
@@ -13750,6 +13867,19 @@
   },
   {
     "imie": "Wiesława",
+    "nazw": "Krawczyk",
+    "tel": "721655625",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Żelazkowo 32/1",
+      "zip": "62-220",
+      "city": "Niechanowo"
+    }
+  },
+  {
+    "imie": "Wiesława",
     "nazw": "Loch",
     "tel": "669348970",
     "email": "ww.loch@interia.pl",
@@ -13768,6 +13898,14 @@
       "zip": "06-200",
       "city": "Maków Mazowiecki"
     }
+  },
+  {
+    "imie": "Wiesława",
+    "nazw": "Owczarek",
+    "tel": "606394777",
+    "email": "wowczarek@op.pl",
+    "paczkomat": "WAW125H",
+    "size": "B"
   },
   {
     "imie": "Wiesława",
