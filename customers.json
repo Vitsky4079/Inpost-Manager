@@ -3541,7 +3541,12 @@
     "tel": "607255068",
     "email": "bernata@tlen.pl",
     "paczkomat": "NMC03M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Wola Niemiecka 42N",
+      "zip": "21-025",
+      "city": "Niemce"
+    }
   },
   {
     "imie": "Bernadetta",
@@ -7614,6 +7619,14 @@
   },
   {
     "imie": "Janina",
+    "nazw": "Nowak",
+    "tel": "884088849",
+    "email": "janinka100@wp.pl",
+    "paczkomat": "SRD03A",
+    "size": "B"
+  },
+  {
+    "imie": "Janina",
     "nazw": "Sobiech",
     "tel": "505010311",
     "email": "jankasobiech@wp.pl",
@@ -9169,6 +9182,14 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Gałęzewska",
+    "tel": "668183585",
+    "email": "katg@wp.pl",
+    "paczkomat": "STS16M",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Giertuga",
     "tel": "603299235",
     "email": "kasia088@tlen.pl",
@@ -9627,6 +9648,14 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Telega",
+    "tel": "605973349",
+    "email": "katarzynatelega1806@onet.pl",
+    "paczkomat": "SIEL01M",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Walkiewicz",
     "tel": "605886762",
     "email": "k.walkiewicz1@gmail.com",
@@ -9753,6 +9782,14 @@
     "tel": "728488186",
     "email": "kinia20004@wp.pl",
     "paczkomat": "TRE01N",
+    "size": "B"
+  },
+  {
+    "imie": "Kinga",
+    "nazw": "Czmut",
+    "tel": "532375597",
+    "email": "kinga0407@wp.pl",
+    "paczkomat": "LCZ02N",
     "size": "B"
   },
   {
@@ -10226,8 +10263,8 @@
     "imie": "Magdalena",
     "nazw": "Dąbrowska",
     "tel": "696091876",
-    "email": "",
-    "paczkomat": "",
+    "email": "lenadabrowska5@wp.pl",
+    "paczkomat": "NSA12M",
     "size": "B",
     "dpd": {
       "street": "Zdrojowa 29e",
@@ -12731,6 +12768,19 @@
     "size": "B"
   },
   {
+    "imie": "Olga",
+    "nazw": "Słomina",
+    "tel": "605496342",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Osiedle Emilii Plater 8/2",
+      "zip": "66-620",
+      "city": "Gubin"
+    }
+  },
+  {
     "imie": "Oliwia",
     "nazw": "Łubecka",
     "tel": "570894537",
@@ -14142,6 +14192,14 @@
     "tel": "502650721",
     "email": "info.uwioli@gmail.com",
     "paczkomat": "ZAK05M",
+    "size": "B"
+  },
+  {
+    "imie": "Wioletta",
+    "nazw": "Krzyżaniak",
+    "tel": "730594206",
+    "email": "krzyzaniakw@wp.pl",
+    "paczkomat": "GNI27M",
     "size": "B"
   },
   {
