@@ -3423,6 +3423,19 @@
   },
   {
     "imie": "Beata",
+    "nazw": "Wasilewska",
+    "tel": "508469983",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Mazowiecka 39A",
+      "zip": "05-831",
+      "city": "Młochów"
+    }
+  },
+  {
+    "imie": "Beata",
     "nazw": "Wasiuk",
     "tel": "667231184",
     "email": "beata17100@wp.pl",
@@ -9603,6 +9616,19 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Swoboda",
+    "tel": "666098470",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Cegielniana 5",
+      "zip": "42-289",
+      "city": "Woźniki"
+    }
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Szczęsna",
     "tel": "505583701",
     "email": "kaszcze6@wp.pl",
@@ -14121,6 +14147,19 @@
     "email": "wwojtaszuk@gmail.com",
     "paczkomat": "WAW38H",
     "size": "B"
+  },
+  {
+    "imie": "Wiesława",
+    "nazw": "Ziemkiewicz",
+    "tel": "664461291",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Toruńska 9",
+      "zip": "88-140",
+      "city": "Gniewkowo"
+    }
   },
   {
     "imie": "Wiktoria",
