@@ -1177,6 +1177,14 @@
   },
   {
     "imie": "Alina",
+    "nazw": "Cichowska",
+    "tel": "669040683",
+    "email": "trans7984@tlen.pl",
+    "paczkomat": "SRC04M",
+    "size": "B"
+  },
+  {
+    "imie": "Alina",
     "nazw": "Cielęcka",
     "tel": "664168541",
     "email": "",
@@ -1357,6 +1365,19 @@
     "email": "nutka1971@wp.pl",
     "paczkomat": "KLZ02M",
     "size": "B"
+  },
+  {
+    "imie": "Aneta",
+    "nazw": "Leńczuk",
+    "tel": "691673833",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zdrojowa 3",
+      "zip": "71-481",
+      "city": "Szczecin"
+    }
   },
   {
     "imie": "Aneta",
@@ -2953,6 +2974,19 @@
     "size": "B"
   },
   {
+    "imie": "Barnara",
+    "nazw": "Jakubowska",
+    "tel": "605396199",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Piaskowa 3/36",
+      "zip": "26-900",
+      "city": "Kozienice"
+    }
+  },
+  {
     "imie": "Basia",
     "nazw": "Zaniewska",
     "tel": "504443060",
@@ -3761,6 +3795,19 @@
     "email": "domek59@op.pl",
     "paczkomat": "KIE12M",
     "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Kicmal",
+    "tel": "663549486",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zwycięstwa 2",
+      "zip": "42-458",
+      "city": "Kuźnica Masłońska"
+    }
   },
   {
     "imie": "Bożena",
@@ -4684,7 +4731,7 @@
     "nazw": "Wańdoch",
     "tel": "507870200",
     "email": "dor.wandoch@gmail.com",
-    "paczkomat": "JURANDA 2B BEŁCHATÓW",
+    "paczkomat": "BEL08N",
     "size": "B"
   },
   {
@@ -5001,6 +5048,19 @@
     "email": "elamru84@gmail.com",
     "paczkomat": "SPÓŁDZIELCÓW 20 MALANÓW",
     "size": "B"
+  },
+  {
+    "imie": "Ela",
+    "nazw": "Sibińska",
+    "tel": "667371165",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kalinowa 102/1",
+      "zip": "Błaszki",
+      "city": "89-235"
+    }
   },
   {
     "imie": "Ela",
@@ -8550,6 +8610,14 @@
   },
   {
     "imie": "Jolanta",
+    "nazw": "Tomaszewska",
+    "tel": "570500477",
+    "email": "jolantatomaszewska14@gmail.com",
+    "paczkomat": "ZKU02M",
+    "size": "B"
+  },
+  {
+    "imie": "Jolanta",
     "nazw": "Torbicka",
     "tel": "606913616",
     "email": "jolatorbicka@gmail.com",
@@ -8569,8 +8637,13 @@
     "nazw": "Urban",
     "tel": "697214144",
     "email": "cindyplay@interia.pl",
-    "paczkomat": "CHROBREGO 4 KROSNO ODRZAŃSKIE",
-    "size": "B"
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bolesława Chrobrego 2A/1",
+      "zip": "66-609",
+      "city": "Krosno Odrzańskie"
+    }
   },
   {
     "imie": "Jolanta",
@@ -8599,6 +8672,19 @@
       "street": "Kalcytowa 19",
       "zip": "26-026",
       "city": "Bilcza"
+    }
+  },
+  {
+    "imie": "Jolanta",
+    "nazw": "Żywanowska",
+    "tel": "609514732",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kon Cordito Święte 107",
+      "zip": "62-511",
+      "city": "Kramsk"
     }
   },
   {
@@ -14396,6 +14482,19 @@
     "email": "zosia-sko@wp.pl",
     "paczkomat": "REK02N",
     "size": "B"
+  },
+  {
+    "imie": "Zofia",
+    "nazw": "Szczepanowska",
+    "tel": "697972405",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Gdańska 8/3",
+      "zip": "76-100",
+      "city": "Sławno"
+    }
   },
   {
     "imie": "Zofia",
