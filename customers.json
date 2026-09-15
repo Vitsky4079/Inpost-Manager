@@ -2792,6 +2792,19 @@
   },
   {
     "imie": "Barbara",
+    "nazw": "Jakubowska",
+    "tel": "605396199",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Piaskowa 3/36",
+      "zip": "26-900",
+      "city": "Kozienice"
+    }
+  },
+  {
+    "imie": "Barbara",
     "nazw": "Kotłowska",
     "tel": "783575405",
     "email": "barbara9@vp.pl",
@@ -2972,19 +2985,6 @@
     "email": "barbara29091@wp.pl",
     "paczkomat": "MEY01G",
     "size": "B"
-  },
-  {
-    "imie": "Barnara",
-    "nazw": "Jakubowska",
-    "tel": "605396199",
-    "email": "",
-    "paczkomat": "",
-    "size": "B",
-    "dpd": {
-      "street": "Piaskowa 3/36",
-      "zip": "26-900",
-      "city": "Kozienice"
-    }
   },
   {
     "imie": "Basia",
