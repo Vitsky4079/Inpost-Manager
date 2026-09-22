@@ -311,7 +311,7 @@
     "nazw": "Kowalewicz",
     "tel": "603633533",
     "email": "emilkagnieszka@gmail.com",
-    "paczkomat": "WAW725M",
+    "paczkomat": "WAW672M",
     "size": "B"
   },
   {
@@ -1696,6 +1696,19 @@
     "email": "a.bartkowiak7@wp.pl",
     "paczkomat": "SIK04M",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Bartos",
+    "tel": "509502056",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Krasińskiego 25A/314",
+      "zip": "40-019",
+      "city": "Katowice"
+    }
   },
   {
     "imie": "Anna",
@@ -5726,6 +5739,19 @@
   },
   {
     "imie": "Ewa",
+    "nazw": "Jawor",
+    "tel": "668971965",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Żwirki i Wigury 1D/19",
+      "zip": "38-400",
+      "city": "Krosno"
+    }
+  },
+  {
+    "imie": "Ewa",
     "nazw": "Kapłon",
     "tel": "503086622",
     "email": "1pergo1@wp.pl",
@@ -6549,6 +6575,19 @@
   },
   {
     "imie": "Halina",
+    "nazw": "Wajs",
+    "tel": "667788294",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "5 Stycznia 58/6",
+      "zip": "64-200",
+      "city": "Wolsztyn"
+    }
+  },
+  {
+    "imie": "Halina",
     "nazw": "Ziomek",
     "tel": "604166386",
     "email": "halina.ziomek1@gmail.com",
@@ -6947,6 +6986,14 @@
     "tel": "519866219",
     "email": "igadzinska@wp.pl",
     "paczkomat": "BYD24N",
+    "size": "B"
+  },
+  {
+    "imie": "Iwona",
+    "nazw": "Gaździcka",
+    "tel": "665745267",
+    "email": "gaz.iwona@gmail.com",
+    "paczkomat": "SICY01BAPP",
     "size": "B"
   },
   {
@@ -7378,10 +7425,15 @@
   {
     "imie": "Iwona",
     "nazw": "Wiśniewska",
-    "tel": "606299969",
-    "email": "iwa.w1@op.pl",
+    "tel": "606329969",
+    "email": "",
     "paczkomat": "PWT02M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Choiny 31",
+      "zip": "05-326",
+      "city": "Poświętne"
+    }
   },
   {
     "imie": "Iwona",
@@ -7568,6 +7620,19 @@
     "email": "arturoleszczak.73@wp.pl",
     "paczkomat": "QZL01M",
     "size": "B"
+  },
+  {
+    "imie": "Izabela",
+    "nazw": "Pronicka",
+    "tel": "508257817",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bora Komorowskiego 10/14",
+      "zip": "03-982",
+      "city": "Warszawa"
+    }
   },
   {
     "imie": "Izabela",
@@ -8309,7 +8374,12 @@
     "tel": "660468233",
     "email": "jolaledochowska@wp.pl",
     "paczkomat": "GDY33M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Nałkowskiej 22D/14",
+      "zip": "81-597",
+      "city": "Gdynia"
+    }
   },
   {
     "imie": "Jola",
@@ -8810,6 +8880,19 @@
     "email": "jusprzy28@wp.pl",
     "paczkomat": "LWW01M",
     "size": "B"
+  },
+  {
+    "imie": "Justyna",
+    "nazw": "Sobczak",
+    "tel": "798851041",
+    "email": "justyna.dabkowska-95@wp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Graniczna 53",
+      "zip": "07-100",
+      "city": "Węgrów"
+    }
   },
   {
     "imie": "Justyna",
@@ -12372,6 +12455,19 @@
     }
   },
   {
+    "imie": "Mirosława",
+    "nazw": "Zając",
+    "tel": "669670140",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Mieszkalna 43/1",
+      "zip": "93-378",
+      "city": "Łódź"
+    }
+  },
+  {
     "imie": "Monia",
     "nazw": "Monik",
     "tel": "733569529",
@@ -14481,7 +14577,12 @@
     "tel": "693402838",
     "email": "zosia-sko@wp.pl",
     "paczkomat": "REK02N",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Stara Dobrzyca 62",
+      "zip": "72-315",
+      "city": "Resko"
+    }
   },
   {
     "imie": "Zofia",
