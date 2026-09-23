@@ -4369,7 +4369,7 @@
     "nazw": "Dudar",
     "tel": "663341974",
     "email": "dorotagorzna63@gmail.com",
-    "paczkomat": "CZESŁAWA TAŃSKIEGO 3 STARGARD",
+    "paczkomat": "STS01A",
     "size": "B"
   },
   {
@@ -9324,6 +9324,14 @@
       "zip": "03-443",
       "city": "Warszawa"
     }
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Ćmel",
+    "tel": "501126241",
+    "email": "katarzyna.cmiel123@gmail.com",
+    "paczkomat": "KZD03M",
+    "size": "B"
   },
   {
     "imie": "Katarzyna",
