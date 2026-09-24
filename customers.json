@@ -2940,8 +2940,13 @@
     "nazw": "Rzeszotarska",
     "tel": "516819140",
     "email": "barbararzeszotarska@wp.pl",
-    "paczkomat": "ZAWADZKIEGO DZIERZGOŃ",
-    "size": "B"
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Minięta 23",
+      "zip": "82-440",
+      "city": "Dzierzgoń"
+    }
   },
   {
     "imie": "Barbara",
@@ -5966,6 +5971,19 @@
     "email": "ewa3672@wp.pl",
     "paczkomat": "PRD01M",
     "size": "B"
+  },
+  {
+    "imie": "Ewa",
+    "nazw": "Pachurka",
+    "tel": "695383808",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Dolna 9",
+      "zip": "64-100",
+      "city": "Oleszno"
+    }
   },
   {
     "imie": "Ewa",
@@ -14237,6 +14255,19 @@
     "email": "domi_lp@wp.pl",
     "paczkomat": "SWI11M",
     "size": "B"
+  },
+  {
+    "imie": "Wiesława",
+    "nazw": "Kowalska",
+    "tel": "603480471",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Rubinowa 12",
+      "zip": "82-200",
+      "city": "Kościeleczki"
+    }
   },
   {
     "imie": "Wiesława",
