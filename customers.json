@@ -989,6 +989,14 @@
   },
   {
     "imie": "Aleksandra",
+    "nazw": "Pietrzyk",
+    "tel": "600483417",
+    "email": "ola-szygula4@wp.pl",
+    "paczkomat": "KSZ04M",
+    "size": "B"
+  },
+  {
+    "imie": "Aleksandra",
     "nazw": "Stepek",
     "tel": "501304587",
     "email": "aleksandrastepek7@gmail.com",
@@ -2484,6 +2492,14 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Skomra",
+    "tel": "505597526",
+    "email": "a_skomra@op.pl",
+    "paczkomat": "PUL02N",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
     "nazw": "Śliwka",
     "tel": "883242430",
     "email": "aniat67@o2.pl",
@@ -2968,6 +2984,19 @@
     "email": "baspal12@wp.pl",
     "paczkomat": "OLS01N",
     "size": "B"
+  },
+  {
+    "imie": "Barbara",
+    "nazw": "Petyniak",
+    "tel": "695455667",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kłodzka 50A/2",
+      "zip": "57-540",
+      "city": "Lądek-Zdrój"
+    }
   },
   {
     "imie": "Barbara",
@@ -4106,6 +4135,19 @@
     "email": "mania77m@wp.pl",
     "paczkomat": "KSWO01M",
     "size": "B"
+  },
+  {
+    "imie": "Danuta",
+    "nazw": "Bułat",
+    "tel": "602496162",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Ostrów 585",
+      "zip": "37-700",
+      "city": "Przemyśl"
+    }
   },
   {
     "imie": "Danuta",
@@ -5357,6 +5399,14 @@
   },
   {
     "imie": "Elżbieta",
+    "nazw": "Mikitiuk",
+    "tel": "511348716",
+    "email": "elamikitiuk75@gmail.com",
+    "paczkomat": "PAC01M",
+    "size": "B"
+  },
+  {
+    "imie": "Elżbieta",
     "nazw": "Morawiec",
     "tel": "886548439",
     "email": "",
@@ -5674,6 +5724,19 @@
       "street": "Słowackiego 22",
       "zip": "Dzierzgoń",
       "city": "82-440"
+    }
+  },
+  {
+    "imie": "Ewa",
+    "nazw": "Ćwiklińska",
+    "tel": "603618523",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Limanowskiego 5/14",
+      "zip": "83-130",
+      "city": "Pelplin"
     }
   },
   {
@@ -10711,6 +10774,19 @@
   },
   {
     "imie": "Magdalena",
+    "nazw": "Kurtycz",
+    "tel": "696434270",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Szkolna 24G",
+      "zip": "56-120",
+      "city": "Brzeg Dolny"
+    }
+  },
+  {
+    "imie": "Magdalena",
     "nazw": "Łącz",
     "tel": "783101600",
     "email": "",
@@ -11579,6 +11655,19 @@
   },
   {
     "imie": "Małgorzata",
+    "nazw": "Szymczak",
+    "tel": "505746651",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sukiennicza 7/107",
+      "zip": "91-855",
+      "city": "Łódź"
+    }
+  },
+  {
+    "imie": "Małgorzata",
     "nazw": "Tarnowska",
     "tel": "609570825",
     "email": "",
@@ -12043,7 +12132,7 @@
   },
   {
     "imie": "Mariola",
-    "nazw": "Świętoracka",
+    "nazw": "Świętorecka",
     "tel": "600493737",
     "email": "mariolas5@op.pl",
     "paczkomat": "MMK02A",
@@ -12938,6 +13027,19 @@
   },
   {
     "imie": "Monika",
+    "nazw": "Śrutwa",
+    "tel": "887666969",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Reymonta 10/2",
+      "zip": "57-200",
+      "city": "Ząbkowice"
+    }
+  },
+  {
+    "imie": "Monika",
     "nazw": "Strazińska",
     "tel": "500555578",
     "email": "monika.strazinska@wp.pl",
@@ -13106,14 +13208,6 @@
     "tel": "728816804",
     "email": "a.drelichowska@poczta.fm",
     "paczkomat": "WRO74M",
-    "size": "B"
-  },
-  {
-    "imie": "Ola",
-    "nazw": "Pietrzyk",
-    "tel": "600483417",
-    "email": "ola-szygula4@wp.pl",
-    "paczkomat": "KSZ04M",
     "size": "B"
   },
   {
@@ -13484,6 +13578,19 @@
       "street": "Armii Krajowej 21",
       "zip": "35-307",
       "city": "Rzeszów"
+    }
+  },
+  {
+    "imie": "Renata",
+    "nazw": "Oklecińska",
+    "tel": "604620289",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Folwark 130",
+      "zip": "23-275",
+      "city": "Gościeradów"
     }
   },
   {
@@ -13888,6 +13995,19 @@
     "email": "jurekmarchewka@o2.pl",
     "paczkomat": "WCZD01BAPP",
     "size": "B"
+  },
+  {
+    "imie": "Sylwia",
+    "nazw": "Milewska",
+    "tel": "500276385",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Pęsy-Lipno 18",
+      "zip": "18-300",
+      "city": "Zambrów"
+    }
   },
   {
     "imie": "Sylwia",
