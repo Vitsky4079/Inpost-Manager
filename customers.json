@@ -4129,6 +4129,19 @@
     }
   },
   {
+    "imie": "Celina",
+    "nazw": "Laskowska",
+    "tel": "605055204",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Szafarczyka 27",
+      "zip": "07-402",
+      "city": "Lelis"
+    }
+  },
+  {
     "imie": "Dagmara",
     "nazw": "Mordyl",
     "tel": "604222345",
