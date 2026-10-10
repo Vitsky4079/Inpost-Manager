@@ -366,7 +366,7 @@
   },
   {
     "imie": "Agnieszka",
-    "nazw": "Kwiatkowska",
+    "nazw": "Kwiat",
     "tel": "663246365",
     "email": "againo@wp.pl",
     "paczkomat": "INO09N",
@@ -1997,6 +1997,14 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Hinz",
+    "tel": "791292055",
+    "email": "annahinz@comel-it.com",
+    "paczkomat": "MIA01BAPP",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
     "nazw": "Jagielnicka",
     "tel": "605124560",
     "email": "annajagielnicka@wp.pl",
@@ -2253,6 +2261,19 @@
       "street": "Stary Kisielin-Dojazdowa 23",
       "zip": "66-002",
       "city": "Zielona Góra"
+    }
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Nawrot",
+    "tel": "790309810",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Oś. Zalesie 5A/5",
+      "zip": "63-507",
+      "city": "Kobyla Góra"
     }
   },
   {
@@ -3864,6 +3885,14 @@
     "tel": "662987934",
     "email": "bozena25aw@op.pl",
     "paczkomat": "HJN02M",
+    "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Hapka",
+    "tel": "507112101",
+    "email": "bhapka@wp.pl",
+    "paczkomat": "BTW02A",
     "size": "B"
   },
   {
@@ -6865,7 +6894,12 @@
     "tel": "603671251",
     "email": "honia2@vp.pl",
     "paczkomat": "JEZ01M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Wojska Polskiego 2",
+      "zip": "95-047",
+      "city": "Jeżów"
+    }
   },
   {
     "imie": "Honorata",
@@ -7152,7 +7186,7 @@
     "nazw": "Cieślik",
     "tel": "693093526",
     "email": "iwonacieslik1@onet.pl",
-    "paczkomat": "GEN01M",
+    "paczkomat": "MSCZ01BAPP",
     "size": "B"
   },
   {
@@ -7928,6 +7962,14 @@
     "tel": "662003710",
     "email": "jagobocz@interia.pl",
     "paczkomat": "KNU14M",
+    "size": "B"
+  },
+  {
+    "imie": "Jagoda",
+    "nazw": "Powązka",
+    "tel": "663957696",
+    "email": "dagmarapowazka@gmail.com",
+    "paczkomat": "TWG02M",
     "size": "B"
   },
   {
@@ -9422,6 +9464,19 @@
     "email": "kgkapuscik@gmail.com",
     "paczkomat": "MYS05A",
     "size": "B"
+  },
+  {
+    "imie": "Kasia",
+    "nazw": "Konopska",
+    "tel": "607123032",
+    "email": "kfkonopska@gmail.com",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wojciechówka 38/1",
+      "zip": "62-800",
+      "city": "Kalisz"
+    }
   },
   {
     "imie": "Kasia",
