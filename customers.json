@@ -9282,6 +9282,19 @@
   },
   {
     "imie": "Karina",
+    "nazw": "Sołtysiak",
+    "tel": "600661022",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Reymonta 17",
+      "zip": "63-300",
+      "city": "Pleszów"
+    }
+  },
+  {
+    "imie": "Karina",
     "nazw": "Tylczyńska",
     "tel": "600172198",
     "email": "Karii028@interia.pl",
