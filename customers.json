@@ -1227,6 +1227,14 @@
   },
   {
     "imie": "Alina",
+    "nazw": "Garus",
+    "tel": "798122547",
+    "email": "alina.garus1@gmail.com",
+    "paczkomat": "LOD24APP",
+    "size": "B"
+  },
+  {
+    "imie": "Alina",
     "nazw": "Kazubska",
     "tel": "601270841",
     "email": "alinakazubska@interia.pl",
@@ -1613,6 +1621,14 @@
     "tel": "781319373",
     "email": "mario.mroz@op.pl",
     "paczkomat": "SAW02M",
+    "size": "B"
+  },
+  {
+    "imie": "Ania",
+    "nazw": "Ordz",
+    "tel": "695118972",
+    "email": "aniaord@wp.pl",
+    "paczkomat": "KAL07A",
     "size": "B"
   },
   {
@@ -2057,6 +2073,14 @@
     "tel": "798572624",
     "email": "maxpol123@wp.pl",
     "paczkomat": "STS01M",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Kapciak",
+    "tel": "880466167",
+    "email": "anna.kapciak.ak@gmail.com",
+    "paczkomat": "ZWO01M",
     "size": "B"
   },
   {
@@ -9618,6 +9642,14 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Gatz",
+    "tel": "668216115",
+    "email": "kaskarudnik@wp.pl",
+    "paczkomat": "KNR01N",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Giertuga",
     "tel": "603299235",
     "email": "kasia088@tlen.pl",
@@ -10187,6 +10219,14 @@
   },
   {
     "imie": "Katarzyna",
+    "nazw": "Wolska",
+    "tel": "664610520",
+    "email": "12wolska@wp.pl",
+    "paczkomat": "BRD05M",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
     "nazw": "Woźniak",
     "tel": "603648590",
     "email": "wozniakkatarzyna090@gmail.com",
@@ -10699,6 +10739,19 @@
     "email": "magdab122@wp.pl",
     "paczkomat": "RNT01M",
     "size": "B"
+  },
+  {
+    "imie": "Magdalena",
+    "nazw": "Burek",
+    "tel": "735915509",
+    "email": "magdaburek@onet.eu",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Jodłowicka 18/6",
+      "zip": "54-062",
+      "city": "Wrocław"
+    }
   },
   {
     "imie": "Magdalena",
@@ -11786,6 +11839,19 @@
   },
   {
     "imie": "Małgorzata",
+    "nazw": "Więckowska",
+    "tel": "508115896",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Szonowo 39",
+      "zip": "86-320",
+      "city": "Łasin"
+    }
+  },
+  {
+    "imie": "Małgorzata",
     "nazw": "Woźniak",
     "tel": "607971973",
     "email": "",
@@ -12134,6 +12200,19 @@
   },
   {
     "imie": "Mariola",
+    "nazw": "Litowińska",
+    "tel": "509391947",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Świętego Wojciecha 2",
+      "zip": "83-120",
+      "city": "Gorzedziej"
+    }
+  },
+  {
+    "imie": "Mariola",
     "nazw": "Łobejko",
     "tel": "730082127",
     "email": "",
@@ -12272,7 +12351,7 @@
     "nazw": "Wiktorska",
     "tel": "500049288",
     "email": "amelka880@o2.pl",
-    "paczkomat": "KST08N",
+    "paczkomat": "KST08M",
     "size": "B"
   },
   {
@@ -15011,14 +15090,6 @@
     "tel": "669966504",
     "email": "zuwal@onet.eu",
     "paczkomat": "ZAB18N",
-    "size": "B"
-  },
-  {
-    "imie": "Katarzyna",
-    "nazw": "Wolska",
-    "tel": "664610520",
-    "email": "12wolska@wp.pl",
-    "paczkomat": "BRD05M",
     "size": "B"
   }
 ]
