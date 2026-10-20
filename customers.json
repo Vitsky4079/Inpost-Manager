@@ -252,6 +252,14 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Frąckowiak",
+    "tel": "501033284",
+    "email": "agnieszkafrackowiak@o2.pl",
+    "paczkomat": "DLL01N",
+    "size": "B"
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Fronczkiewicz",
     "tel": "660696261",
     "email": "fronaga@o2.pl",
@@ -2471,7 +2479,7 @@
     "nazw": "Radzik",
     "tel": "733112201",
     "email": "anulka.radzik@wp.pl",
-    "paczkomat": "DWORCOWA 1 POLICE",
+    "paczkomat": "PLO01N",
     "size": "B"
   },
   {
@@ -2644,6 +2652,14 @@
     "tel": "510456135",
     "email": "anna.wegier15@gmail.com",
     "paczkomat": "WAW168M",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Terała",
+    "tel": "692436664",
+    "email": "feebe7@wp.pl",
+    "paczkomat": "GWI02BAPP",
     "size": "B"
   },
   {
@@ -5954,6 +5970,19 @@
   },
   {
     "imie": "Ewa",
+    "nazw": "Kania",
+    "tel": "600488359",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nadbużańska 31",
+      "zip": "22-525",
+      "city": "Strzyżów"
+    }
+  },
+  {
+    "imie": "Ewa",
     "nazw": "Kapłon",
     "tel": "503086622",
     "email": "1pergo1@wp.pl",
@@ -6461,6 +6490,19 @@
       "street": "Leśna 6",
       "zip": "44-172",
       "city": "Niekarmia"
+    }
+  },
+  {
+    "imie": "Gabriela",
+    "nazw": "Jojko",
+    "tel": "531244464",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Leśna 38A/10",
+      "zip": "41-706",
+      "city": "Ruda Śląska"
     }
   },
   {
@@ -9599,6 +9641,14 @@
       "zip": "03-443",
       "city": "Warszawa"
     }
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Ciołek",
+    "tel": "723444077",
+    "email": "bartczak88@op.pl",
+    "paczkomat": "BLS02M",
+    "size": "B"
   },
   {
     "imie": "Katarzyna",
@@ -14783,7 +14833,12 @@
     "tel": "606972597",
     "email": "wierarakowska@wp.pl",
     "paczkomat": "SZY03M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Wschodnia 11",
+      "zip": "26-500",
+      "city": "Szydłowiec"
+    }
   },
   {
     "imie": "Wiesława",
