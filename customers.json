@@ -2376,6 +2376,14 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Pawelec",
+    "tel": "783262610",
+    "email": "ania84r@wp.pl",
+    "paczkomat": "GZC03A",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
     "nazw": "Pawlak",
     "tel": "511599308",
     "email": "",
@@ -2616,6 +2624,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Stawecka",
+    "tel": "533918481",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Trakt 3",
+      "zip": "05-152",
+      "city": "Kazuń Polski"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Strulak",
     "tel": "609856609",
     "email": "anna.strulak@wp.pl",
@@ -2815,6 +2836,19 @@
     "email": "joanna.jaczynska@interia.pl",
     "paczkomat": "WAW37B",
     "size": "B"
+  },
+  {
+    "imie": "Asia",
+    "nazw": "Kawecka",
+    "tel": "723518885",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Prusa 11A",
+      "zip": "64-030",
+      "city": "Śmigiel"
+    }
   },
   {
     "imie": "Asia",
@@ -3028,6 +3062,19 @@
       "street": "Chopina 71",
       "zip": "82-200",
       "city": "Malbork"
+    }
+  },
+  {
+    "imie": "Barbara",
+    "nazw": "Niesłuchowska",
+    "tel": "663767182",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bohaterów Warszawy 6",
+      "zip": "96-300",
+      "city": "Żyrardów"
     }
   },
   {
@@ -3806,6 +3853,19 @@
       "street": "Kurów 14/1",
       "zip": "72-001",
       "city": "Kołbaskowo"
+    }
+  },
+  {
+    "imie": "Bogumiła",
+    "nazw": "Pawlak",
+    "tel": "607589464",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kochanowskiego 79",
+      "zip": "26-432",
+      "city": "Wieniawa"
     }
   },
   {
@@ -9575,6 +9635,19 @@
   },
   {
     "imie": "Kasia",
+    "nazw": "Wandtke",
+    "tel": "508647047",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Osiedlowa 10/5",
+      "zip": "84-123",
+      "city": "Rekowo Górne"
+    }
+  },
+  {
+    "imie": "Kasia",
     "nazw": "Wróblewska",
     "tel": "691141518",
     "email": "katarzyna1976@interia.pl",
@@ -10205,19 +10278,6 @@
     "email": "kajenka28@wp.pl",
     "paczkomat": "LSK01M",
     "size": "B"
-  },
-  {
-    "imie": "Katarzyna",
-    "nazw": "Wandtke",
-    "tel": "508647047",
-    "email": "",
-    "paczkomat": "",
-    "size": "B",
-    "dpd": {
-      "street": "Osiedlowa 10/5",
-      "zip": "84-123",
-      "city": "Rekowo Górne"
-    }
   },
   {
     "imie": "Katarzyna",
@@ -14427,6 +14487,19 @@
     "email": "r.teresa51@wp.pl",
     "paczkomat": "LBU02N",
     "size": "B"
+  },
+  {
+    "imie": "Teresa",
+    "nazw": "Sas",
+    "tel": "503113538",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wilkowice 21A",
+      "zip": "96-200",
+      "city": "Rawa Mazowiecka"
+    }
   },
   {
     "imie": "Teresa",
