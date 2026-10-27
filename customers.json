@@ -464,6 +464,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Owocka",
+    "tel": "607647572",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Hetmańska 3/40",
+      "zip": "82-300",
+      "city": "Elbląg"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Pawełkiewicz",
     "tel": "518772825",
     "email": "a.pawelkiewicz@bhpolsztyn.pl",
@@ -1158,6 +1171,19 @@
     "email": "alicjamijas@wp.pl",
     "paczkomat": "CIEPŁA 3 WARSZAWA",
     "size": "B"
+  },
+  {
+    "imie": "Alicja",
+    "nazw": "Okoń",
+    "tel": "602264403",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Zegrze Pomorskie 8/2",
+      "zip": "76-024",
+      "city": "Świeszyno"
+    }
   },
   {
     "imie": "Alicja",
@@ -3923,7 +3949,7 @@
     "nazw": "Abramowicz",
     "tel": "502159043",
     "email": "abramboz@gmail.com",
-    "paczkomat": "CHT02N",
+    "paczkomat": "CHT01N",
     "size": "B"
   },
   {
@@ -6604,6 +6630,14 @@
   },
   {
     "imie": "Gosia",
+    "nazw": "Gorecka",
+    "tel": "781449162",
+    "email": "malgorzata.gorecka15@gmail.com",
+    "paczkomat": "LAQ01M",
+    "size": "B"
+  },
+  {
+    "imie": "Gosia",
     "nazw": "Lisińska",
     "tel": "693038749",
     "email": "gosia.lisinska73@wp.pl",
@@ -6931,6 +6965,19 @@
     "email": "hania_lawniczak@wp.pl",
     "paczkomat": "KOŚCIAN NACŁAWSKA 19",
     "size": "B"
+  },
+  {
+    "imie": "Hania",
+    "nazw": "Wojciechowska",
+    "tel": "506171710",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Rybacka 3",
+      "zip": "44-266",
+      "city": "Świerklany"
+    }
   },
   {
     "imie": "Hanka",
@@ -7317,6 +7364,19 @@
   },
   {
     "imie": "Iwona",
+    "nazw": "Cyssewska",
+    "tel": "606690018",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Lipowa 2",
+      "zip": "82-400",
+      "city": "Sztum"
+    }
+  },
+  {
+    "imie": "Iwona",
     "nazw": "Gadzińska",
     "tel": "519866219",
     "email": "igadzinska@wp.pl",
@@ -7353,6 +7413,14 @@
     "tel": "697744155",
     "email": "wera1979@poczta.fm",
     "paczkomat": "RKT01M",
+    "size": "B"
+  },
+  {
+    "imie": "Iwona",
+    "nazw": "Henne",
+    "tel": "607979208",
+    "email": "iwonahenne@interia.pl",
+    "paczkomat": "KCH01APP",
     "size": "B"
   },
   {
@@ -8936,7 +9004,7 @@
     "nazw": "Kwaśnicka",
     "tel": "669398283",
     "email": "jolka.kwas@op.pl",
-    "paczkomat": "MINKOWICKA 3 JANIKÓW",
+    "paczkomat": "",
     "size": "B",
     "dpd": {
       "street": "Minkowicka 3",
@@ -10463,6 +10531,19 @@
       "street": "Gombrowicza 7/8",
       "zip": "70-785",
       "city": "Szczecin"
+    }
+  },
+  {
+    "imie": "Krystyna",
+    "nazw": "Czelusta",
+    "tel": "508728219",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Janków Zaleśny 119",
+      "zip": "63-440",
+      "city": "Raszków"
     }
   },
   {
@@ -12154,6 +12235,19 @@
   },
   {
     "imie": "Maria",
+    "nazw": "Kołacz",
+    "tel": "605640302",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Trzy Dęby 1",
+      "zip": "64-333",
+      "city": "Bukowiec"
+    }
+  },
+  {
+    "imie": "Maria",
     "nazw": "Kowalewska",
     "tel": "667967696",
     "email": "mariakowalewska@op.pl",
@@ -13243,6 +13337,19 @@
       "street": "Zaruby 2",
       "zip": "02-796",
       "city": "Warszawa"
+    }
+  },
+  {
+    "imie": "Monika",
+    "nazw": "Piątkowska",
+    "tel": "783523651",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Boduszewo 18",
+      "zip": "62-095",
+      "city": "Murawana Goślina"
     }
   },
   {
@@ -15117,6 +15224,19 @@
       "street": "Płąchawy 43",
       "zip": "87-214",
       "city": "Płużnica"
+    }
+  },
+  {
+    "imie": "Władysława",
+    "nazw": "Piernik",
+    "tel": "721345433",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Krzyżanowskiego 3/9",
+      "zip": "75-328",
+      "city": "Koszalin"
     }
   },
   {
