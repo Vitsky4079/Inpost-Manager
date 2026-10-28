@@ -633,6 +633,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Szczawińska",
+    "tel": "506106490",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Źródlana 3",
+      "zip": "09-414",
+      "city": "Brudzeń Duży"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Szczepaniak",
     "tel": "725586422",
     "email": "agnieszka.szczepaniak@autograf.pl",
@@ -2115,6 +2128,14 @@
     "tel": "880466167",
     "email": "anna.kapciak.ak@gmail.com",
     "paczkomat": "ZWO01M",
+    "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Karpińska",
+    "tel": "696025205",
+    "email": "anna_karpinska@wp.pl",
+    "paczkomat": "BIA08M",
     "size": "B"
   },
   {
@@ -4121,6 +4142,19 @@
     "email": "bozena.paciorek@onet.pl",
     "paczkomat": "WAW07AP",
     "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Potemska",
+    "tel": "607193556",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Cmentarna 33",
+      "zip": "42-262",
+      "city": "Poczesna"
+    }
   },
   {
     "imie": "Bożena",
@@ -13896,6 +13930,14 @@
   },
   {
     "imie": "Renata",
+    "nazw": "Łukowiak",
+    "tel": "668546528",
+    "email": "renatalukowiak1@op.pl",
+    "paczkomat": "ZAN01M",
+    "size": "B"
+  },
+  {
+    "imie": "Renata",
     "nazw": "Masloch",
     "tel": "501303680",
     "email": "renata00234@wp.pl",
@@ -15068,6 +15110,14 @@
     "tel": "660537883",
     "email": "wiolka2017ala@gmail.com",
     "paczkomat": "IWASZKIEWICZA 9 OŁAWA",
+    "size": "B"
+  },
+  {
+    "imie": "Wioleta",
+    "nazw": "Kościelny",
+    "tel": "663104780",
+    "email": "wioleta.koscielny@o2.pl",
+    "paczkomat": "CZD02A",
     "size": "B"
   },
   {
