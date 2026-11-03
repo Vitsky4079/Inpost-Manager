@@ -1531,6 +1531,14 @@
   },
   {
     "imie": "Aneta",
+    "nazw": "Szewczyk",
+    "tel": "782363349",
+    "email": "aneta.szewczyk1994@wp.pl",
+    "paczkomat": "KTR08M",
+    "size": "B"
+  },
+  {
+    "imie": "Aneta",
     "nazw": "Trawińska",
     "tel": "503803094",
     "email": "aneta.trawinska@vp.pl",
@@ -2663,6 +2671,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Spychalska",
+    "tel": "606589705",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Parkowa 61/4A",
+      "zip": "71-621",
+      "city": "Szczecin"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Stachowiak",
     "tel": "603922133",
     "email": "anna.st@vp.pl",
@@ -2817,6 +2838,19 @@
     "email": "annaaw@wp.pl",
     "paczkomat": "DGO12N",
     "size": "B"
+  },
+  {
+    "imie": "Anna",
+    "nazw": "Wydra",
+    "tel": "663478243",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Janówko 60",
+      "zip": "87-313",
+      "city": "Brzozie"
+    }
   },
   {
     "imie": "Anna",
@@ -3576,6 +3610,19 @@
   },
   {
     "imie": "Beata",
+    "nazw": "Pakula",
+    "tel": "500264359",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Bohaterów Września 83",
+      "zip": "72-600",
+      "city": "Świnoujście"
+    }
+  },
+  {
+    "imie": "Beata",
     "nazw": "Patyk",
     "tel": "663748440",
     "email": "beata-patyk@wp.pl",
@@ -4125,6 +4172,14 @@
     "tel": "508877252",
     "email": "b.loszewska@wp.pl",
     "paczkomat": "GDA124M",
+    "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Mroczkowska",
+    "tel": "666865140",
+    "email": "jagiella12@gmail.com",
+    "paczkomat": "LBW02A",
     "size": "B"
   },
   {
@@ -13404,7 +13459,7 @@
   },
   {
     "imie": "Monika",
-    "nazw": "Reczucha",
+    "nazw": "Reczuch",
     "tel": "515157203",
     "email": "",
     "paczkomat": "",
@@ -14318,8 +14373,8 @@
     "imie": "Sylwia",
     "nazw": "Gójska",
     "tel": "795925994",
-    "email": "",
-    "paczkomat": "",
+    "email": "germanistka6@wp.pl",
+    "paczkomat": "STS20M",
     "size": "B",
     "dpd": {
       "street": "Wierzyńskiego 6c/6",
