@@ -4582,6 +4582,19 @@
   },
   {
     "imie": "Daria",
+    "nazw": "Durczak",
+    "tel": "507200169",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Sumin 73",
+      "zip": "83-200",
+      "city": "Starogard Gdański"
+    }
+  },
+  {
+    "imie": "Daria",
     "nazw": "Jarecka",
     "tel": "603841397",
     "email": "daaria93@gmail.com",
@@ -5576,6 +5589,19 @@
   },
   {
     "imie": "Elżbieta",
+    "nazw": "Jaśnikowska",
+    "tel": "515180865",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Goworowice 47",
+      "zip": "48-388",
+      "city": "Kamiennik"
+    }
+  },
+  {
+    "imie": "Elżbieta",
     "nazw": "Kamrowska",
     "tel": "505622167",
     "email": "OLS21A",
@@ -5613,6 +5639,19 @@
     "email": "elzbietakukulowicz72@gmail.com",
     "paczkomat": "MHQ01M",
     "size": "B"
+  },
+  {
+    "imie": "Elżbieta",
+    "nazw": "Kur",
+    "tel": "604460776",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Krzyżanowo 17/2/2",
+      "zip": "82-220",
+      "city": "Stare Pole"
+    }
   },
   {
     "imie": "Elżbieta",
@@ -13715,7 +13754,7 @@
   },
   {
     "imie": "Olga",
-    "nazw": "Słomina",
+    "nazw": "Słomian",
     "tel": "605496342",
     "email": "",
     "paczkomat": "",
