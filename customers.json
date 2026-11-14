@@ -1584,14 +1584,6 @@
   },
   {
     "imie": "Anetta",
-    "nazw": "Mazur",
-    "tel": "793345163",
-    "email": "anatta69@vp.pl",
-    "paczkomat": "LEG18M",
-    "size": "B"
-  },
-  {
-    "imie": "Anetta",
     "nazw": "Olecka",
     "tel": "609320052",
     "email": "anetta.olecka@vp.pl",
@@ -2973,6 +2965,19 @@
   },
   {
     "imie": "Barbara",
+    "nazw": "Czekańska",
+    "tel": "695897874",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Chmieleńska 27",
+      "zip": "83-300",
+      "city": "Kartuzy"
+    }
+  },
+  {
+    "imie": "Barbara",
     "nazw": "De",
     "tel": "603783774",
     "email": "b.dondela@wp.pl",
@@ -3465,6 +3470,14 @@
   },
   {
     "imie": "Beata",
+    "nazw": "Klimkowska",
+    "tel": "500152182",
+    "email": "beaklim.bk@gmail.com",
+    "paczkomat": "NVKQ01BAPP",
+    "size": "B"
+  },
+  {
+    "imie": "Beata",
     "nazw": "Kochańska",
     "tel": "669447614",
     "email": "",
@@ -3503,6 +3516,19 @@
       "street": "Wrocławska 109",
       "zip": "58-306",
       "city": "Wałbrzych"
+    }
+  },
+  {
+    "imie": "Beata",
+    "nazw": "Kupiniak-Kucaba",
+    "tel": "501548469",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Monte Cassino 18",
+      "zip": "37-700",
+      "city": "Przemyśl"
     }
   },
   {
@@ -4067,6 +4093,19 @@
   },
   {
     "imie": "Bożena",
+    "nazw": "Fara",
+    "tel": "577287417",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Plac Chrobrego 1",
+      "zip": "57-300",
+      "city": "Kłodzko"
+    }
+  },
+  {
+    "imie": "Bożena",
     "nazw": "Gac",
     "tel": "793308762",
     "email": "bozenagac@gmail.com",
@@ -4326,6 +4365,19 @@
     "email": "brygidaformela@gmail.com",
     "paczkomat": "SMD01M",
     "size": "B"
+  },
+  {
+    "imie": "Brygida",
+    "nazw": "Nosek",
+    "tel": "602607159",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wiekewska 3",
+      "zip": "89-632",
+      "city": "Lubnia"
+    }
   },
   {
     "imie": "Brygida",
@@ -4924,6 +4976,14 @@
     "tel": "605827069",
     "email": "dorciam69@interia.pl",
     "paczkomat": "KNX01M",
+    "size": "B"
+  },
+  {
+    "imie": "Dorota",
+    "nazw": "Milun",
+    "tel": "519408517",
+    "email": "dorotkami@tlen.pl",
+    "paczkomat": "PLC06A",
     "size": "B"
   },
   {
@@ -10854,6 +10914,14 @@
   },
   {
     "imie": "Lidia",
+    "nazw": "Krawczak",
+    "tel": "609791820",
+    "email": "i.krawczak@o2.pl",
+    "paczkomat": "POZ200M",
+    "size": "B"
+  },
+  {
+    "imie": "Lidia",
     "nazw": "Ramus",
     "tel": "668500365",
     "email": "lidiaramus73@onet.eu",
@@ -12297,6 +12365,19 @@
     "email": "mborowa64@gmail.com",
     "paczkomat": "BXA02M",
     "size": "B"
+  },
+  {
+    "imie": "Maria",
+    "nazw": "Breguła",
+    "tel": "728769660",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Księdza Gąski 18A",
+      "zip": "42-286",
+      "city": "Koszęcin"
+    }
   },
   {
     "imie": "Maria",
@@ -13788,6 +13869,19 @@
   },
   {
     "imie": "Patrycja",
+    "nazw": "Adamczak",
+    "tel": "693054789",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Nowa 5",
+      "zip": "66-445",
+      "city": "Trzebiszewo"
+    }
+  },
+  {
+    "imie": "Patrycja",
     "nazw": "Karło",
     "tel": "502623639",
     "email": "paulash@wp.pl",
@@ -14215,6 +14309,19 @@
       "street": "Warszawska 659",
       "zip": "05-083",
       "city": "Zaborów"
+    }
+  },
+  {
+    "imie": "Renata",
+    "nazw": "Zdunek",
+    "tel": "500223679",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Swarzewska 19",
+      "zip": "84-103",
+      "city": "Łebcz"
     }
   },
   {
