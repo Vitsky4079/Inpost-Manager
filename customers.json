@@ -2246,6 +2246,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Kuleta",
+    "tel": "668899450",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Krasińskiego 25A",
+      "zip": "40-019",
+      "city": "Katowice"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Kwiatecka",
     "tel": "513058051",
     "email": "anna_kwiatecka@interia.pl",
