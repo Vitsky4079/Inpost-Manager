@@ -720,6 +720,19 @@
   },
   {
     "imie": "Agnieszka",
+    "nazw": "Wachowska",
+    "tel": "695117622",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kolejowa 59",
+      "zip": "24-220",
+      "city": "Niedrzwica Duża"
+    }
+  },
+  {
+    "imie": "Agnieszka",
     "nazw": "Wardzińska",
     "tel": "605163093",
     "email": "agnieszkawardzinska1@gmail.com",
@@ -3152,19 +3165,6 @@
   },
   {
     "imie": "Barbara",
-    "nazw": "Moczyńska",
-    "tel": "507045494",
-    "email": "bea66@vp.pl",
-    "paczkomat": "",
-    "size": "B",
-    "dpd": {
-      "street": "Chopina 71",
-      "zip": "82-200",
-      "city": "Malbork"
-    }
-  },
-  {
-    "imie": "Barbara",
     "nazw": "Niesłuchowska",
     "tel": "663767182",
     "email": "",
@@ -3609,6 +3609,19 @@
     "email": "bet49@wp.pl",
     "paczkomat": "MDZ01N",
     "size": "B"
+  },
+  {
+    "imie": "Beata",
+    "nazw": "Moczyńska",
+    "tel": "507045494",
+    "email": "bea66@vp.pl",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Chopina 71",
+      "zip": "82-200",
+      "city": "Malbork"
+    }
   },
   {
     "imie": "Beata",
@@ -5574,6 +5587,14 @@
     "tel": "607503554",
     "email": "elwira_niewiadomska@wp.pl",
     "paczkomat": "BRA05M",
+    "size": "B"
+  },
+  {
+    "imie": "Elżbieta",
+    "nazw": "Baraskiewicz",
+    "tel": "606142813",
+    "email": "elzbieta471@onet.pl",
+    "paczkomat": "WAW230M",
     "size": "B"
   },
   {
@@ -12111,6 +12132,19 @@
   },
   {
     "imie": "Małgorzata",
+    "nazw": "Pastewska",
+    "tel": "784591420",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Budyń 7/11",
+      "zip": "86-122",
+      "city": "Bukowiec"
+    }
+  },
+  {
+    "imie": "Małgorzata",
     "nazw": "Paszkiewicz",
     "tel": "539380240",
     "email": "",
@@ -14387,7 +14421,12 @@
     "tel": "604066728",
     "email": "hirekboleslawiec@gmail.com",
     "paczkomat": "RVD01M",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Długa 101",
+      "zip": "98-300",
+      "city": "Wieluń"
+    }
   },
   {
     "imie": "Renata",
