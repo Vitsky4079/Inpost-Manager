@@ -1597,6 +1597,14 @@
   },
   {
     "imie": "Anetta",
+    "nazw": "Mazur",
+    "tel": "698433817",
+    "email": "anetta69@vp.pl",
+    "paczkomat": "ZLO03M",
+    "size": "B"
+  },
+  {
+    "imie": "Anetta",
     "nazw": "Olecka",
     "tel": "609320052",
     "email": "anetta.olecka@vp.pl",
@@ -2872,6 +2880,19 @@
   },
   {
     "imie": "Anna",
+    "nazw": "Załachowska",
+    "tel": "694884454",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Maryniec 7",
+      "zip": "77-430",
+      "city": "Krajenka"
+    }
+  },
+  {
+    "imie": "Anna",
     "nazw": "Zapora",
     "tel": "515808477",
     "email": "",
@@ -3890,7 +3911,7 @@
     "nazw": "Żurek",
     "tel": "604863840",
     "email": "anakondav16@interia.pl",
-    "paczkomat": "OGIŃSKIEGO PIŁA",
+    "paczkomat": "PIL01BAPP",
     "size": "B"
   },
   {
@@ -4375,6 +4396,19 @@
     "email": "bozena.wawrzyniak5@wp.pl",
     "paczkomat": "KEE02M",
     "size": "B"
+  },
+  {
+    "imie": "Bożena",
+    "nazw": "Wojtak",
+    "tel": "720819223",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kordeckiego 29A",
+      "zip": "37-420",
+      "city": "Rudnik nad Sanem"
+    }
   },
   {
     "imie": "Bożena",
@@ -7162,6 +7196,14 @@
     "tel": "797171555",
     "email": "kat.orzelska@gmail.com",
     "paczkomat": "SRC01N",
+    "size": "B"
+  },
+  {
+    "imie": "Halina",
+    "nazw": "Fass",
+    "tel": "692322541",
+    "email": "hf.szpitalna@wp.pl",
+    "paczkomat": "CHE10M",
     "size": "B"
   },
   {
@@ -11159,6 +11201,14 @@
   },
   {
     "imie": "Magda",
+    "nazw": "Cieślicka",
+    "tel": "662041547",
+    "email": "magda.szymczak81@gmail.com",
+    "paczkomat": "CHM03A",
+    "size": "B"
+  },
+  {
+    "imie": "Magda",
     "nazw": "Em",
     "tel": "883060800",
     "email": "czar331@wp.pl",
@@ -12081,6 +12131,14 @@
       "zip": "44-280",
       "city": "Rydułtowy"
     }
+  },
+  {
+    "imie": "Małgorzata",
+    "nazw": "Nosek",
+    "tel": "885271258",
+    "email": "mnww520@gmail.com",
+    "paczkomat": "WWI01AP",
+    "size": "B"
   },
   {
     "imie": "Małgorzata",
@@ -13033,6 +13091,14 @@
     "tel": "698234227",
     "email": "martaprochon4@wp.pl",
     "paczkomat": "GDY12M",
+    "size": "B"
+  },
+  {
+    "imie": "Marta",
+    "nazw": "Rodak",
+    "tel": "664984427",
+    "email": "nadiartmr@gmail.com",
+    "paczkomat": "KOB01N",
     "size": "B"
   },
   {
@@ -14848,6 +14914,19 @@
     "email": "warminskasylwia@gmail.com",
     "paczkomat": "UZO01M",
     "size": "B"
+  },
+  {
+    "imie": "Sylwia",
+    "nazw": "Zapiór",
+    "tel": "606556808",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Marcinkowice 43",
+      "zip": "28-500",
+      "city": "Kazimierza Wielka"
+    }
   },
   {
     "imie": "Szafa",
