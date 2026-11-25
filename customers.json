@@ -5601,6 +5601,19 @@
   },
   {
     "imie": "Elwira",
+    "nazw": "Cyk",
+    "tel": "735936850",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Kościelna 1",
+      "zip": "11-320",
+      "city": "Jeziorany"
+    }
+  },
+  {
+    "imie": "Elwira",
     "nazw": "Kopka",
     "tel": "504188658",
     "email": "kopka-sebastian@wp.pl",
@@ -6190,7 +6203,12 @@
     "tel": "664162656",
     "email": "ewaczerwiec@o2.pl",
     "paczkomat": "PRU03A",
-    "size": "B"
+    "size": "B",
+    "dpd": {
+      "street": "Działkowa 139/6",
+      "zip": "05-808",
+      "city": "Parzniew"
+    }
   },
   {
     "imie": "Ewa",
@@ -7064,6 +7082,19 @@
       "street": "3-go Maja 11",
       "zip": "42-439",
       "city": "Żarnowiec"
+    }
+  },
+  {
+    "imie": "Grażyna",
+    "nazw": "Komorowska",
+    "tel": "509466208",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Dziatwy 14A/28",
+      "zip": "03-109",
+      "city": "Warszawa"
     }
   },
   {
@@ -9729,6 +9760,14 @@
   },
   {
     "imie": "Kamila",
+    "nazw": "Niklewska",
+    "tel": "608287996",
+    "email": "kamila1231@wp.pl",
+    "paczkomat": "WCB02BAPP",
+    "size": "B"
+  },
+  {
+    "imie": "Kamila",
     "nazw": "Panasiuk",
     "tel": "504480120",
     "email": "kamilaborsuk@interia.pl",
@@ -10590,6 +10629,14 @@
     "tel": "886990554",
     "email": "katsan5@wp.pl",
     "paczkomat": "YCZ01M",
+    "size": "B"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazw": "Sojka",
+    "tel": "513548080",
+    "email": "sojka.katarzyna1@interia.eu",
+    "paczkomat": "DGL01M",
     "size": "B"
   },
   {
@@ -15273,6 +15320,19 @@
     "email": "violetta.majchrzak@o2.pl",
     "paczkomat": "SAM03M",
     "size": "B"
+  },
+  {
+    "imie": "Violetta",
+    "nazw": "Jahnke",
+    "tel": "791495587",
+    "email": "",
+    "paczkomat": "",
+    "size": "B",
+    "dpd": {
+      "street": "Wybickiego 6/8 m.3",
+      "zip": "86-300",
+      "city": "Grudziądz"
+    }
   },
   {
     "imie": "Violetta",
